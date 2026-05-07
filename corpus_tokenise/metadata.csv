@@ -1,0 +1,7 @@
+id,origine,modele,pol,partie
+GPT_NEG_tokenise,ia,gpt,neg,gpt_neg
+GPT_POS_tokenise,ia,gpt,pos,gpt_pos
+HUM_cat-hotel_pol-NEG_tokenise,humain,humain,neg,hum_neg
+HUM_cat-hotel_pol-POS_tokenise,humain,humain,pos,hum_pos
+deepseek_NEG_tokenise,ia,deepseek,neg,deepseek_neg
+deepseek_POS_tokenise,ia,deepseek,pos,deepseek_pos
