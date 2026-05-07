@@ -1,0 +1,621 @@
+Reference	LeftContext	Pivot	RightContext
+GPT_NEG_tokenise, 3	房间 一直 很 吵 ， 隔音 效果 非常	差	， 几乎 没法 好好 休息 。 房间 空调 基本 不 制冷 ，
+GPT_NEG_tokenise, 113	住客 声音 很 清楚 ， 隐私 感 很	差	。 入住 时 发现 床头灯 无法 点亮 ， 没有 及时 修理 。
+GPT_NEG_tokenise, 149	， 和 照片 差距 明显 。 隔音 非常	差	， 楼上 走路 声 都 听 得 清清楚楚 。 床垫 塌陷 明显
+GPT_NEG_tokenise, 209	调节 。 房间 窗户 打不开 ， 空气流通 非常	差	。 浴室 洗手台 边缘 发黑 ， 看起来 长期 没有 清理 。 入住
+GPT_NEG_tokenise, 222	到 一半 很 尴尬 。 房间 空气净化 效果	差	， 有点 闷闷 的 感觉 。 停车场 指示 不 清晰 ， 绕
+GPT_NEG_tokenise, 239	没有 人 及时 修理 。 浴室 通风 效果	差	， 湿气 很 重散 不 出去 。 退房 时 排队 时间 很长
+GPT_NEG_tokenise, 380	盖 着 不 太 舒服 。 房间 隔音	差	， 隔壁 说话 声音 很 清楚 。 停车场 车位 紧张 ， 晚上
+GPT_NEG_tokenise, 389	迟缓 ， 使用 体验 很差 。 房间 空气流通	差	， 有点 闷 。 前台 服务态度 比较 冷淡 ， 缺乏 耐心 。
+GPT_NEG_tokenise, 459	完全 晒干 的 感觉 。 房间 隔音 效果	差	， 隔壁 说话 清楚 得 很 。 停车场 入口 很 隐蔽 ，
+GPT_NEG_tokenise, 498	着 不 太 舒服 。 房间 隔音 效果	差	， 隔壁 说话 都 能 听见 。 停车场 指引 不 清晰 ，
+GPT_NEG_tokenise, 506	需要 自己 去 要 。 电视 遥控器 灵敏度	差	， 操作 不 顺畅 。 房间 空气 有点 沉闷 ， 长时间 待
+GPT_NEG_tokenise, 549	无法 使用 部分 功能 。 房间 空气 循环	差	， 长时间 待 着 会 觉得 闷 。 浴室 水龙头 冷热 标识
+GPT_NEG_tokenise, 576	， 像 没 晒干 一样 。 房间 隔音	差	， 走廊 脚步声 非常 清晰 。 停车场 入口 标识 不 清楚 ，
+GPT_NEG_tokenise, 655	， 影响 使用 感受 。 房间 隔音 非常	差	， 楼上 走路 声 很重 。 停车场 没有 明确 标线 ， 停车
+GPT_NEG_tokenise, 703	， 经常 需要 多次 按键 。 房间 空气流通	差	， 有 轻微 闷热 感 。 前台 服务 语气 冷淡 ， 缺乏
+GPT_NEG_tokenise, 731	用力 ， 不 顺滑 。 前台 态度 不算	差	， 但 明显 缺乏 解决问题 的 能力 。 被子 有 一块 明显
+GPT_NEG_tokenise, 819	经常 需要 多次 按键 。 房间 空气 循环	差	， 有 轻微 闷味 。 前台 服务态度 比较 冷淡 ， 缺乏 耐心
+GPT_NEG_tokenise, 885	能 听 清 内容 ， 隐私 性 很	差	。 停车场 入口 标识 太小 ， 第一次 开车 很 容易 错过 。
+GPT_NEG_tokenise, 918	有 污渍 和 磨损 痕迹 。 走廊 空气流通	差	， 有 一股 长期 积存 的 气味 。 早餐 补货 不 及时
+GPT_NEG_tokenise, 962	， 盖起来 不太 舒服 。 房间 隔音 效果	差	， 外面 声音 清晰 可 听 。 停车场 指示 不 清楚 ，
+GPT_NEG_tokenise, 1008	反应 迟缓 ， 经常 失灵 。 房间 空气流通	差	， 有 轻微 闷热 感 。 前台 服务态度 一般 ， 缺乏 耐心
+GPT_NEG_tokenise, 1245	还要 额外 去 要 。 房间 空气 循环	差	， 长时间 待 着 会 觉得 憋闷 。 电视 遥控器 灵敏度 很
+GPT_NEG_tokenise, 1330	还 只能 开 一条 小缝 ， 通风 特别	差	。 最 离谱 的 是 晚上 十一点多 准备 洗澡 的 时候 ，
+GPT_NEG_tokenise, 1331	原本 以为 是 家 连锁 酒店 ， 再	差	也 不会 差到 哪里 去 ， 结果 这次 真的 刷新 了 我
+GPT_NEG_tokenise, 1335	拍 得 特别 好 ， 实际 情况 特别	差	。 刚到 的 时候 外观 看着 还 可以 ， 但进 了 电梯
+GPT_NEG_tokenise, 1339	的 ， 进来 之后 才 发现 细节 特别	差	， 比如 走廊 有股 说不清 的 味道 ， 像 潮湿 又 混
+GPT_NEG_tokenise, 1356	主动 回来 的 类型 ， 各 方面 都	差	一点点 ， 但 叠加 起来 就 变成 明显 的 不 满意 这次
+GPT_NEG_tokenise, 1375	了 入住 的 时候 前台 态度 其实 不算	差	， 但 效率 真的 很 低 ， 一个 简单 的 入住 信息
+GPT_NEG_tokenise, 1392	不 太 友好 整体 入住 流程 说不上 特别	差	， 但 就是 很多 地方 不 顺畅 ， 小 问题 叠 在
+GPT_NEG_tokenise, 1399	一直 要 调整 水温 ， 体验 感 很	差	房间 空气 不太好 ， 一 进门 就 有点 闷 的 感觉 ，
+GPT_NEG_tokenise, 1426	断断续续 根本 睡 不 踏实 房间 卫生 说不上	差	但 也 绝对 不 细致 ， 床头柜 下面 居然 还有 上 一位
+GPT_NEG_tokenise, 1445	残留 ， 没有 擦 到位 ， 看起来 就	差	那么 一点点 椅子 坐下 去 会 轻微 晃动 ， 不是 很 严重
+GPT_NEG_tokenise, 1517	澡水 都 快 漫到 脚踝 了 窗帘 遮光	差	， 早上 六点 就 被 亮醒 ， 根本 没法 睡懒觉 空调 出风
+GPT_NEG_tokenise, 1637	速度慢 ， 用 一会儿 就 积水 房间 空气流通	差	， 待久 了 会 有点 闷头 电梯 等候 时间 不 稳定 ，
+GPT_NEG_tokenise, 1680	早上 天一亮 就 完全 醒 了 房间 空气流通	差	， 开 空调 也 还是 闷 退房 时 账单 多出 一项 不明
+GPT_NEG_tokenise, 1849	实际 用处 ！ ！ ！ 前台 服务态度 说不上	差	， 但 效率 是 真的 慢 ， 一个 问题 要 磨 很
+GPT_NEG_tokenise, 1897	， 只能 草草 冲完 赶紧 出来 服务态度 说不上	差	， 但 完全 没有 解决问题 的 能力 ， 空调 坏 了 打电话
+GPT_NEG_tokenise, 1908	， 细节 卫生 完全 不及格 电梯 体验 特别	差	， 高峰期 等 半天 不 来 ， 好不容易 来 了 还 满员
+GPT_NEG_tokenise, 2027	有点 旧 … 不太敢 细想 纸巾 质量 也	差	… 一 抽 就 破 电梯 按钮 不灵 … 要 狂 按
+GPT_NEG_tokenise, 2065	细 想 纸巾 一扯 就 烂 … 质量	差	电梯 按钮 要 按 好 多次 … 才 有 反应 房间 布局
+GPT_NEG_tokenise, 2083	还 得 趴 地上 找 角度 服务 说不上	差	， 但 效率 真的 低 ， 打电话 说 空调 有 问题 等
+GPT_NEG_tokenise, 2151	门口 尴尬 半天 手机信号 在 房间 里 特别	差	， 基本 断联 sb 真的 服 了 ， 这 什么 酒店 ，
+GPT_NEG_tokenise, 2224	， 扫得 很 敷衍 纸巾 质量 也 很	差	， 一 抽 就 破 衣柜 里面 还 有点 怪味 ， 不敢
+GPT_NEG_tokenise, 2266	住 了 一晚 ， 房间 隔音 真的 太	差	， 走廊 说话 听得 一清二楚 ， 根本 没法 好好 休息 。 带
+GPT_NEG_tokenise, 2276	带 孩子 的 家庭 住客 觉得 隔音 太	差	， 孩子 晚上 被 吵醒 好 几次 ， 非常 崩溃 。 作为
+GPT_NEG_tokenise, 2308	的 家庭 客人 表示 ， 房间 隔音 太	差	， 孩子 一哭 隔壁 都 能 听见 ， 很 尴尬 。 深夜
+GPT_NEG_tokenise, 2599	， 清洁 不 到位 。 走廊 隔音 效果	差	， 夜里 行李 拖动 声 很 明显 。 房间 温控 系统 不灵敏
+GPT_NEG_tokenise, 2639	刷 。 摄影 爱好者 觉得 房间 光线 太	差	， 拍 出来 的 照片 完全 不能 用 。 家庭 游客 反馈
+GPT_NEG_tokenise, 2647	忽冷忽热 。 独行 旅客 觉得 房间 隔音 太	差	， 隔壁 说话 都 能 听 清楚 。 旅游 博主 觉得 整体
+GPT_NEG_tokenise, 2770	的 人 感觉 就是 价格 和 体验 之间	差	了 一个 层级 。 外国 客人 说 沟通 不是 不能 沟通 ，
+GPT_NEG_tokenise, 2783	醒来 肩颈会 有点 紧 。 整体 体验 说不上	差	到极点 ， 但 就是 一直 在 提醒 你 它 还有 很多 没
+GPT_NEG_tokenise, 2792	家庭 说 浴室 入口 那 一小 段 高度	差	让 人 特别 紧张 。 短住 商务 客 醒来 后 觉得 床
+GPT_NEG_tokenise, 2986	不 掉 。 我 感觉 房间 隔音 特别	差	， 隔壁 说话 我 听 得 一清二楚 。 我 晚上 根本 没睡
+GPT_NEG_tokenise, 3284	长途飞行 后 的 旅客 ， 发现 房间 空气流通	差	， 有 明显 闷感 。 我 作为 一名 内容 创作者 ， 发现
+GPT_NEG_tokenise, 3439	随便 选 的 ， 结果 房间 比 预期	差	不少 ， 灯光 暗 ， 走廊 味道 也 不 太 舒服 。
+GPT_NEG_tokenise, 3458	订 的 ， 结果 房间 隔音 比 想象	差	很多 ， 隔壁 说话 听得 清 。 空调 运转 声音 偏 大
+GPT_NEG_tokenise, 3481	湿 了 一小片 ， 挺烦 说实话 比 预期	差	不少 ， 本来 想着 随便 住 一晚 ， 结果 各种 小 问题
+GPT_NEG_tokenise, 3516	住 ， 结果 床 很 软 但 支撑	差	， 一 躺 就 陷 ， 腰 不 太 舒服 ， 浴室
+GPT_NEG_tokenise, 3532	才 订 的 ， 结果 实际 隔音 太	差	， 楼上 走路 都 听见 ， 空调 还有 异响 ， 像 小
+GPT_NEG_tokenise, 3533	久 ， 中间 还 忽冷忽热 ， 床垫 支撑	差	， 睡 一晚 腰酸 ， 窗外 还有 施工 声 ， 算了 懒得
+GPT_NEG_tokenise, 3540	想着 省事 住 一晚 ， 结果 隔音 太	差	， 隔壁 电视 声 特别 清楚 ， 窗帘 遮不住 光 ， 早上
+GPT_NEG_tokenise, 3547	吃 不 知道 怎么样 但 睡 得 很	差	看 评分 还行 才 来 的 ， 结果 电视 打不开 ， 遥控器
+GPT_NEG_tokenise, 3638	出差 随便 选 的 ， 结果 比 想象	差	不少 。 空调 声音 很大 还 不 制冷 ， 像 拖拉机 一样
+GPT_NEG_tokenise, 3682	一会 烫 一会 凉 。 前一晚 睡得 很	差	， 早上 起来 本来 想 洗个 澡 清醒 一下 ， 结果 越洗
+HUM_cat-hotel_pol-NEG_tokenise, 5	月 31 日 还 没有 早餐! 周围环境	差	, 房间 设施 陈旧. 房间 小. 服务员 懒散. 去
+HUM_cat-hotel_pol-NEG_tokenise, 7	我们 出差 的 地方 对面 。 服务 超级	差	， 在 门口 停车 装 行李 被 赶走 ， 然后 别的 什么
+HUM_cat-hotel_pol-NEG_tokenise, 10	！ ！ 应急 住 下 ， 条件 比较	差	服务 不好 看不到 海 ， 房间 也 比较 简陋 ， 装修 不好
+HUM_cat-hotel_pol-NEG_tokenise, 13	， 2 天 竟然 要 8802. 卫生	差	， 走廊 铺 着 一条条 白布 3. 订单 确认 晚 ，
+HUM_cat-hotel_pol-NEG_tokenise, 14	店 竟然 说 取消 了 订单 ！ 真的	差	， 这家 酒店 实在 是 服务 有 问题 ， 说染 头发 掉色
+HUM_cat-hotel_pol-NEG_tokenise, 14	， 并 不是 非常 理想 ， 房间 隔音	差	， 管理 参差不齐 ， 酒店 位置 差 ， 加上 打 的 费用
+HUM_cat-hotel_pol-NEG_tokenise, 14	隔音 差 ， 管理 参差不齐 ， 酒店 位置	差	， 加上 打 的 费用 一样 ！ 就是 靠 服务员 说 几句
+HUM_cat-hotel_pol-NEG_tokenise, 29	且 让 人 感觉 脏 ， 隔音 效果	差	， 能 听到 走廊 的 人 讲话 ， 走廊 光线 昏暗 ，
+HUM_cat-hotel_pol-NEG_tokenise, 33	洗澡 水流 小 的 要命 ， 设施 太	差	。 真心 不 懂 携程 把 他 放入 同 四星 的 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 37	窗户 都 没有 ， 房间 隔音 效果 太	差	， 晚上 老 听见 隔壁 的 说话声 和 隔壁 洗手间 的 冲
+HUM_cat-hotel_pol-NEG_tokenise, 47	。 其他 都 不错 ， 就是 隔音 太	差	， 几乎 相当于 没 间隔 。 隔壁 住 的 是 小 情侣
+HUM_cat-hotel_pol-NEG_tokenise, 49	的 一间 ， 服务态度 和 质量 都 很	差	， 房间 很小 ， 早餐 连点 肉 都 没有 ， 9 ：
+HUM_cat-hotel_pol-NEG_tokenise, 52	贵 ， 周边 餐饮 不 方便 ， 性价比	差	！ 一个 破落 的 酒店 、 开车 路过 不得不 住 ！ 奇怪
+HUM_cat-hotel_pol-NEG_tokenise, 58	是 垃圾 ， 设施 陈旧 ， 隔音 效果	差	， 门外 走廊 内 的 脚步声 在 里面 听得 很 清晰 ，
+HUM_cat-hotel_pol-NEG_tokenise, 77	好 比较 老 一般 般的 酒店 ， 太	差	， 不会 再住 洒店 的 房间 太小, 设计 也 不合理 。
+HUM_cat-hotel_pol-NEG_tokenise, 78	的 费用 后 ， 与 五星级 的 酒店	差	不了 多少 。 我 要说 超级 差 ， 没 窗户 ， 服务
+HUM_cat-hotel_pol-NEG_tokenise, 79	酒店 差 不了 多少 。 我 要说 超级	差	， 没 窗户 ， 服务 差 ， 我 第一次 给 差评 ，
+HUM_cat-hotel_pol-NEG_tokenise, 79	要说 超级 差 ， 没 窗户 ， 服务	差	， 我 第一次 给 差评 ， 就 像 在 坐牢 一样 的
+HUM_cat-hotel_pol-NEG_tokenise, 86	有 很多 外国游客 去 的 。 服务 相当	差	， 缺乏 必要 的 职业 素养 ， 是 遇到 的 最差 的
+HUM_cat-hotel_pol-NEG_tokenise, 92	没有 车 的话 ， 价格 贵 ， 位置	差	， 我 第一次 遇上 连车 都 不 帮 你 叫 的 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 96	不能 因为 五折 就 随便 安排 一个 格局	差	， 没有 浴缸 ， 又 在 最 角落 要 走 N 个
+HUM_cat-hotel_pol-NEG_tokenise, 100	人才 开, 服务 很差 没见 过 这么	差	的 四星 酒店! 建议 大家 以后 千万别 住, 离 银滩
+HUM_cat-hotel_pol-NEG_tokenise, 105	怎么 挂上去 的 ？ 从来 没有 遇到 这么	差	的 4 星 酒店 。 强烈 不 推荐 ！ ！ ！ 太老
+HUM_cat-hotel_pol-NEG_tokenise, 106	有 味道 空调 也 有 味道 总之 就是	差	热水 不够 热 ， 让 工作人员 来看 ， 就 告诉 我水 就
+HUM_cat-hotel_pol-NEG_tokenise, 111	酒店业 十分 发达 的 城市 ， 酒店 服务	差	， 入住 登记 时 强调 要 安静 的 房间 ， 结果 还是
+HUM_cat-hotel_pol-NEG_tokenise, 113	居然 过来 问 我 ， 态度 语气 非常	差	问 你 是 谁 ？ 我 说 我 是 他 女朋友 他
+HUM_cat-hotel_pol-NEG_tokenise, 117	。 服务员 服务 也 一般 ， 隔音 比较	差	。 晚上 的 骚扰电话 ， 唉 ， 不提 了 个人感觉 ： 1
+HUM_cat-hotel_pol-NEG_tokenise, 118	， 不提 了 个人感觉 ： 1 、 条件	差	， 房间 小 。 2 、 服务 不 到位 。 钥匙 老是
+HUM_cat-hotel_pol-NEG_tokenise, 120	呵呵 ， 现在 好像 改了 。 性价比 太	差	， 哪里 是 三星 的 标准 啊 实在 是 对不起 这个 价格
+HUM_cat-hotel_pol-NEG_tokenise, 124	心跳 ！ ！ ！ 房间 隔音 效果 非常	差	， 飞机 起飞 的 声音 巨响 ， 床头柜 落 满灰尘 。 地毯
+HUM_cat-hotel_pol-NEG_tokenise, 132	了 ， 遗憾 ！ 前台 接待 态度 非常	差	！ 说 粗口 ！ 建议 有 其它 选择 就 不要 选择 这里
+HUM_cat-hotel_pol-NEG_tokenise, 135	不想 提了 ！ 强烈建议 不要 入住 ！ 相当	差	， 真不知道 该 酒店 是 怎么 升 上 五星 的 。 升星
+HUM_cat-hotel_pol-NEG_tokenise, 135	之后 价格 还长 了 ， 服务 却 越来越	差	。 建议 国家旅游局 对 其 重新 评估 ， 否则 就是 拿 了
+HUM_cat-hotel_pol-NEG_tokenise, 140	， 就 觉得 邯郸 大酒店 应该 也 不会	差	到哪去 ， 一进 大厅 就 感觉 有种 陈旧 的 感觉 ， 一个
+HUM_cat-hotel_pol-NEG_tokenise, 140	还是 要 单面 点 清楚 地 ， 发现	差	的 也 太 离谱 了 ， 询问 后 又 退 给 我
+HUM_cat-hotel_pol-NEG_tokenise, 141	， 再 不住 这个 酒店 ， 服务 非常	差	， 4 星级 酒店 没有 门童 开门 ， 接 行李 。 只有
+HUM_cat-hotel_pol-NEG_tokenise, 146	生活 多年 ， 从来 没有 碰到 服务 这么	差	的 ， 国人 的 服务 然道 就 这样 ？ 感觉 自己 作为
+HUM_cat-hotel_pol-NEG_tokenise, 152	。 房间 清洁 倘可 接受 。 空调 比较	差	房间 温度 高 。 电视 频度 选择 比较 少 。 性价比 还
+HUM_cat-hotel_pol-NEG_tokenise, 153	很 是 一般 ， 可以 说 是 有点	差	， 就 10 几年 的 老 装修 。 还是 住潭江 半岛 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 155	设施 老化 ， 淋浴 水龙头 漏水 。 隔音	差	， 飞机 声音 响 不停 。 酒店设施 非常 陈旧 ， 而且 接送
+HUM_cat-hotel_pol-NEG_tokenise, 170	希望 大家 都 谨慎 一点 吧 。 服务	差	， 怎么 会 有 一间 酒店 没 热水 呢? 我 之前
+HUM_cat-hotel_pol-NEG_tokenise, 172	， 最后 我们 决定 更换 。 环境 太	差	, 非常 后悔, 再 不会 去 住 房间 有 味道 。
+HUM_cat-hotel_pol-NEG_tokenise, 181	， 房间 小 。 设施 要 比 以前	差	了 ， 要 改进 。 希望 有 进步 。 时常 客人 来
+HUM_cat-hotel_pol-NEG_tokenise, 183	, 不象 4 星, 房间 隔音 太	差	, 隔壁 打 了 一晚 麻将, 太吵 了 硬件 差 ：
+HUM_cat-hotel_pol-NEG_tokenise, 184	打 了 一晚 麻将, 太吵 了 硬件	差	： 房间 设施 简单 、 陈旧 ， 房内 有 较 重 的
+HUM_cat-hotel_pol-NEG_tokenise, 184	半夜 后 中央空调 “ 罢工 ” 。 服务	差	： 进房 发现 ， 床单 和 被褥 就 简单 地铺 在 床上
+HUM_cat-hotel_pol-NEG_tokenise, 184	、 服务 的 基本 水准 ） 。 餐饮	差	： 办理 入住 手续 时 ， 总台 推荐 在 酒店 用餐 （
+HUM_cat-hotel_pol-NEG_tokenise, 184	“ 小害 ” 了 一次 ！ ） 卫生	差	： 这 是 最 要命 的 一点 ， 在 离开 酒店 后
+HUM_cat-hotel_pol-NEG_tokenise, 189	能 听得见 唱歌 声 ； 3. 厕所	差	， 第一个 房间 因为 厕所 堵住 换 另 一个 房间 ， 结果
+HUM_cat-hotel_pol-NEG_tokenise, 189	酒店 会出 这种 事情 ； 4. 服务态度	差	， 给 人 一种 冰冷 的 感觉 。 总之 ， 这 是
+HUM_cat-hotel_pol-NEG_tokenise, 203	的 ， 一般般 吧 房间 隔音 效果 超级	差	， 晚上 竟然 能 听到 外面 在 搓麻 将 和 讲话声 ！
+HUM_cat-hotel_pol-NEG_tokenise, 207	酒店 不 值得 推荐 。 很差 ， 非常	差	。 特别 是 服务员 的 态度 。 注意 请 不要 住 1
+HUM_cat-hotel_pol-NEG_tokenise, 208	， 我 想 退 了 。 前台 服务态度	差	看着 地理位置 合适 才 选 的 这家 酒店 ， 酒店 没有 明显
+HUM_cat-hotel_pol-NEG_tokenise, 217	住 的 外国人 比较 多 ， 服务态度 就	差	了 一点 ， 素质 比较 低 ， 对于 签名 还要 问 你
+HUM_cat-hotel_pol-NEG_tokenise, 229	的 贵 ！ ！ ！ ！ ！ ！	差	了 俩 块钱 没 早饭 ！ ！ ！ 酒店 离 机场 很
+HUM_cat-hotel_pol-NEG_tokenise, 238	去 哪儿 网上 定房 前台 妹子 服务质量 超级	差	我 去 的 时候 还 在 跟 航空公司 的 空乘 人员 吵架
+HUM_cat-hotel_pol-NEG_tokenise, 241	环境 一般 ， 设施 不好 ， 服务 又	差	， 就是 为了 离 机场 近才 选择 了 这家 酒店 ， 以后
+HUM_cat-hotel_pol-NEG_tokenise, 243	硬件 设施 太 一般 ， 服务 水准 太	差	， 除了 地理位置 还算 好 ， 这家 酒店 乏善可陈 一般 ， 没有
+HUM_cat-hotel_pol-NEG_tokenise, 246	钱 。 对 庐山 宾馆 的 印象 差差	差	。 建议 大家 还是 选择 其他 宾馆 。 反正 上面 有 很多
+HUM_cat-hotel_pol-NEG_tokenise, 247	被 咬 了 满脸 包 ， 体验 非常	差	离 机场 10 分钟 车程 ， 酒店设施 老久 ， 网速 非常 慢
+HUM_cat-hotel_pol-NEG_tokenise, 249	月 18 号 的 大巴 司机 服务 太	差	， 没有 报 清楚 T1 还是 T2 ， 很多 旅客 都 专门
+HUM_cat-hotel_pol-NEG_tokenise, 251	！ 交通 太 不 方便 了 。 卫生	差	， 有 小 动物 出没 。 早上 第一 班车 退房 人多 ，
+HUM_cat-hotel_pol-NEG_tokenise, 268	空调 机房 嘈音 整个 晚上 ， 隔音 也	差	！ 早餐 自己 买单 39 元 一位 ， 因为 没睡 好 ，
+HUM_cat-hotel_pol-NEG_tokenise, 278	朋友 订 的 ， 听 反馈 ， 真心	差	， 可惜 当时 有 展会 ， 到处 订 不到 酒店 。 酒店设施
+HUM_cat-hotel_pol-NEG_tokenise, 279	订 不到 酒店 。 酒店设施 很差 ， 早饭	差	， 要命 的 服务员 态度 很差 ！ 下次 绝对 不住 ！ 设施
+HUM_cat-hotel_pol-NEG_tokenise, 300	慢 。 这个 酒店 的 房间 也 很	差	。 酒店 的 怪味 根本 无法忍受 ， 设施 也 不 方便 ，
+HUM_cat-hotel_pol-NEG_tokenise, 306	五星 标准 。 房间 那 是 相当 的	差	， 不过 也 是 挺 便宜 的 。 交通 不太 方便 。
+HUM_cat-hotel_pol-NEG_tokenise, 320	没有, 酒店 装修 老旧 ， 前台 服务	差	， 不 推荐 入住 。 酒店 房间 设施 陈旧 ， 尤其 卫生间
+HUM_cat-hotel_pol-NEG_tokenise, 325	蟑螂 他 挨 停车场 很近 但是 酒店 隔音	差	床硬 各种 脏脏 的 唉 … 房间 真差 啊 ， 我 住
+HUM_cat-hotel_pol-NEG_tokenise, 333	不信 的 去 了 就 知道 什么 是	差	了 ！ ！ 什么 是 后悔 了 ！ ！ 服务 人员素质 不高
+HUM_cat-hotel_pol-NEG_tokenise, 339	早餐 也 一般 。 前台 接待 服务 非常	差	， 好像 客人 欠 她 钱 似的 ， 建议 大家 不要 定
+HUM_cat-hotel_pol-NEG_tokenise, 342	其他 桔子 酒店 比 起来 ， 前台 态度	差	很多 。 环境 离 机场 还算近 ， 只是 酒店设施 比较 陈旧 。
+HUM_cat-hotel_pol-NEG_tokenise, 344	没有 四星级, 而且 房间 的 隔音 太	差	, 马路上 的 车声 \ 楼上 的 乱七八糟 的 声音, 硬是
+HUM_cat-hotel_pol-NEG_tokenise, 345	真是 素质 与 服务 都 不是 一般 的	差	! 幸好 另外 找 了 信用卡 银行 在 跟进 了, 真
+HUM_cat-hotel_pol-NEG_tokenise, 346	过去 了 。 2 种 房间 的 价格	差	了 ￥ 150 ， 贵 的 房间 除了 面积 小 了 许多
+HUM_cat-hotel_pol-NEG_tokenise, 349	的 风险 举动 ！ 房间 太小 ， 服务态度	差	， 行李 没 人 帮忙 拿 ， 服务 太 差 ， 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 350	行李 没 人 帮忙 拿 ， 服务 太	差	， 酒店 预订 部 居然 挂 我 电话 设施 陈旧 ， 价格
+HUM_cat-hotel_pol-NEG_tokenise, 352	陈旧 ， 价格 较贵 。 酒店 服务 非常	差	。 早起 出门时 希望 保安 给 我 叫 出租车 。 保安 用
+HUM_cat-hotel_pol-NEG_tokenise, 354	打仗 都 不 知道 ！ 2 ， 网络	差	， wifi 弱 ！ 3 ， 附近 交通 非常 不 方便 情侣
+HUM_cat-hotel_pol-NEG_tokenise, 358	感觉 像 有鬼 一样, 服务 也 很	差	, 水要 自己 要 才 给, 总之 这个 酒店 绝对 不
+HUM_cat-hotel_pol-NEG_tokenise, 361	你 的 用 一个 子 评价 就是 "	差	", 两个 字 就是 " 差差 ", 用 三个 字
+HUM_cat-hotel_pol-NEG_tokenise, 361	, 用 三个 字 评价 就是 " 差差	差	", 除了 地点 好, 其它 的, 房间 老旧 也
+HUM_cat-hotel_pol-NEG_tokenise, 368	亮点. 用餐 非常 不好, 早餐 非常	差	, 没有 什么 东西 吃, 都 是 菜饭 什么 的,
+HUM_cat-hotel_pol-NEG_tokenise, 379	住 的 所有 酒店 没有 比 它 还	差	的 酒店 环境 差 位置 太偏 服务态度 急其 恶毒 不会 入住 第二次
+HUM_cat-hotel_pol-NEG_tokenise, 379	没有 比 它 还 差 的 酒店 环境	差	位置 太偏 服务态度 急其 恶毒 不会 入住 第二次 酒店 位置 超好 ，
+HUM_cat-hotel_pol-NEG_tokenise, 382	酒店 。 宾馆 在 小巷 里, 周围环境	差	, 室内 施舍 一般, 218 元 一定 要求 住 4 楼
+HUM_cat-hotel_pol-NEG_tokenise, 390	太 糟糕 了 。 ＊ 服务 人员 态度	差	， 效率 底 ； ＊ 房间 小 ， 床 不 舒服 ，
+HUM_cat-hotel_pol-NEG_tokenise, 417	另外 ， 酒店 总台 接机 的 态度 超级	差	， 一次 不好 的 入住 印象 ， 从没 遇 过 这么 差
+HUM_cat-hotel_pol-NEG_tokenise, 417	的 入住 印象 ， 从没 遇 过 这么	差	的 酒店 服务 了 。 其实 ， 硬件 还是 不错 的 很
+HUM_cat-hotel_pol-NEG_tokenise, 422	这里, 只会 比 你 想象 的 更	差	， 不会 比 你 想象 的 好 ！ 对于 携程 的 推荐
+HUM_cat-hotel_pol-NEG_tokenise, 425	星级 酒店 相差 甚远. 奇怪的是, 这样	差	的 酒店 居然 好评 如潮??? 请 大家 擦亮 双眼
+HUM_cat-hotel_pol-NEG_tokenise, 426	早餐 上 的 咖啡 比 速溶 咖啡 都	差	, 牛奶 是 掺水 的. 4, 房价 是 780 元
+HUM_cat-hotel_pol-NEG_tokenise, 426	这种 地方. 我 从来 没住 过 这么	差	的 宾馆. 房间 设备 太 差, 连 空调 都 没
+HUM_cat-hotel_pol-NEG_tokenise, 427	这么 差 的 宾馆. 房间 设备 太	差	, 连 空调 都 没 安装, 下次 如 有 机会 再
+HUM_cat-hotel_pol-NEG_tokenise, 430	在 浦东 机场 附近 一般 ， 早餐 太	差	地段 还 不错 ， 但 作为 一家 4 星级宾馆 ， 设施 方面
+HUM_cat-hotel_pol-NEG_tokenise, 442	） ， 设备 比较 旧 ， 早餐 太	差	， 还有 就是 在 洗澡时 洗 一半 竟然 没 冷水 ， 差点
+HUM_cat-hotel_pol-NEG_tokenise, 442	没 冷水 ， 差点 烫伤 ， 总的来说 比较	差	， 以后 不会 再 选择 入住 该家 酒店 这 酒店 的 服务
+HUM_cat-hotel_pol-NEG_tokenise, 444	。 这次 入住 和 上次 相比, 感觉	差	很多 啊... 卫生间 马桶 一直 漏水, 早上 打扫 房间 服务员
+HUM_cat-hotel_pol-NEG_tokenise, 447	什么 尴尬 的 事情 晕倒 这家 酒店 非常	差	, 大家 不要 给 它 的 外表 所 欺骗, 房间 非常
+HUM_cat-hotel_pol-NEG_tokenise, 448	要 比 它 好 橘子 比起 以前 来说	差	了 很多 ， 不 知道 是不是 安排 的 房间 的 问题 。
+HUM_cat-hotel_pol-NEG_tokenise, 448	的 房间 的 问题 。 感觉 比 以前	差	了 好多 ， 服务 也 不怎么样 。 以后 可能 不会 再选 。
+HUM_cat-hotel_pol-NEG_tokenise, 452	陈旧 。 卫生 很差 设施 陈旧, 卫生	差	. 感觉: 四星 的 大门, 二星 的 客房, 没有
+HUM_cat-hotel_pol-NEG_tokenise, 457	早餐 的 种类 跟 口味 也 是 很	差	， 根本 不值 450 一晚 ！ 唯一 的 好处 就是 离 机场
+HUM_cat-hotel_pol-NEG_tokenise, 459	酒店 外观 比较 旧 ， 店内 装修 比较	差	。 太差 了 ！ 完全 不值 ！ 请 各位 注意 酒店 提供
+HUM_cat-hotel_pol-NEG_tokenise, 467	， 什么 凯莱 ， 其实 也 是 很	差	的 ， 不要 对 他 寄望 什么 。 设备 老化 严重 ，
+HUM_cat-hotel_pol-NEG_tokenise, 477	酒店 后 发现 ， 门面 特别 小 而且	差	， 很 不起眼 。 到 前台 办手续 又 发现 态度 特别 差
+HUM_cat-hotel_pol-NEG_tokenise, 477	。 到 前台 办手续 又 发现 态度 特别	差	， 还 摆 着 服务 标兵 的 牌子 ， 我 是 一点
+HUM_cat-hotel_pol-NEG_tokenise, 478	口气 还 很 不 友好 ！ 早餐 太	差	， 其它 讲究 。 不值 368 元 。 特价 房 环境 非常
+HUM_cat-hotel_pol-NEG_tokenise, 486	， 地理环境 还 可以 ， 硬件 设施 太	差	。 早餐 品种 非常少 ， 没有 现烧 的 东西 ， 加料 不太
+HUM_cat-hotel_pol-NEG_tokenise, 488	。 不是 迫不得已 ， 不 推荐 ， 性价比	差	， 还 不如 如家 和 汉庭 。 酒店 位置 不错 ， 但是
+HUM_cat-hotel_pol-NEG_tokenise, 489	， 床上 潮湿 ， 无法 入睡 。 餐饮	差	的 无法形容 ， 超 五星级 的 价格 ， 但 菜品 质量 差
+HUM_cat-hotel_pol-NEG_tokenise, 489	超 五星级 的 价格 ， 但 菜品 质量	差	的 无法 想象 ！ 里面 的 服务员 都 是 大爷 ， 比
+HUM_cat-hotel_pol-NEG_tokenise, 493	一条 等 号 呢 ！ ！ 服务 太	差	， 说 房间 清理 要 15 分钟 ， 结果 等 了 四个
+HUM_cat-hotel_pol-NEG_tokenise, 498	晚上 不会 很 吵 。 但 服务 比较	差	。 我们 住 的 房间 门锁 坏 了 ， 房卡 打不开 们
+HUM_cat-hotel_pol-NEG_tokenise, 499	， 阳朔 遍地 都 是 客栈 。 差差	差	进门 去 门童 都 不 搭理 人 新 酒店 ， 但 都
+HUM_cat-hotel_pol-NEG_tokenise, 501	半小时 。 业务 不 熟悉 ， 前台 态度	差	。 酒店 硬件 还 不错 ， 软件 跟不上 前台 服务员 太 坑人
+HUM_cat-hotel_pol-NEG_tokenise, 514	和 李汪 大酒店 差得 很 远 ， 服务	差	， 设施 差 ， 给 我 的 感觉 是 酒店 的 服务生
+HUM_cat-hotel_pol-NEG_tokenise, 514	差得 很 远 ， 服务 差 ， 设施	差	， 给 我 的 感觉 是 酒店 的 服务生 是 上帝 好像
+HUM_cat-hotel_pol-NEG_tokenise, 515	了 ， 没什么 热水 ， 洗涤 用品 质量	差	， 柜台 少 ， 服务 慢 至少 输入 15 个 字 。
+HUM_cat-hotel_pol-NEG_tokenise, 522	连锁. 永不 再住! 前台 服务员 服务	差	， 一副 公事公办 ， 爱住 不住 的 面孔 ， 不会 再 去
+HUM_cat-hotel_pol-NEG_tokenise, 529	建议 入住 的 人 自己 考虑 清楚 。	差	， 太差 了 ， 希望 不要 推荐 给 携程 用户 。 。
+HUM_cat-hotel_pol-NEG_tokenise, 532	了 ！ 管理混乱 ， 脏 、 乱 、	差	当地 名声不好 出租 司机 找 不到 此 宾馆 非常 一般 的 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 534	语) 虽然 不是 星级 酒店, 设备	差	可以 忍, 但 酒店 管理 和 serves 跟不上, 就 没有
+HUM_cat-hotel_pol-NEG_tokenise, 537	太老 了 酒店 环境 很差 ， 服务态度 也	差	！ 而且 第二天 早上 还 不好 打车 去 机场 ， 我 上次
+HUM_cat-hotel_pol-NEG_tokenise, 538	！ 太坑 爹 了 。 总体 感觉 比较	差	, 房间 家具 老旧, 商务 套间 的 地毯 居然 到处 是
+HUM_cat-hotel_pol-NEG_tokenise, 541	至于 此 吧 ； 房间 隔音 效果 非常	差	， 隔壁 房间 的 男女 不干 正事 ， 絮絮叨叨 聊 了 一夜
+HUM_cat-hotel_pol-NEG_tokenise, 548	只能 说 是 我 住 过 的 很	差	的 酒店 ， 房间 隔音 很差 ， 隔壁 的 客人 电视 开
+HUM_cat-hotel_pol-NEG_tokenise, 553	声音 吵得 不能 好好 睡个 懒觉 卫生条件 比较	差	， 真的 很差 ！ 毛巾 白里 透 着 黑 ， 马桶 和
+HUM_cat-hotel_pol-NEG_tokenise, 555	的 耐心. 这个 酒店 整体 而已 比较	差	. 服务 和 设施 都 不值 那个 价钱. 晚上 火车 很
+HUM_cat-hotel_pol-NEG_tokenise, 556	非常 难 打车 。 3 、 服务 太	差	， 70 年代 的 水平 吧 。 还象 还 不想 改进 。
+HUM_cat-hotel_pol-NEG_tokenise, 579	很差 、 这么 贵 的 价格 设备 配置	差	也 就算 了 、 马桶 套圈 裂 的 、 把 我 大腿肉
+HUM_cat-hotel_pol-NEG_tokenise, 582	到 极致 无线 相当于 没有 ， 信号 太	差	， 被子 还 有点 潮 这 是 住 的 桔子 酒店 最差
+HUM_cat-hotel_pol-NEG_tokenise, 583	的 一次 ， 房间 没窗 透风 性 很	差	， 感觉 是 隔出来 的 房间 ， 隔音 效果 很差 ， 一
+HUM_cat-hotel_pol-NEG_tokenise, 584	总体 来讲 ， 对 登封 的 印象 比较	差	， 基本上 是 脏乱差 的 典型 ！ 酒店 的 设施 极端 简陋
+HUM_cat-hotel_pol-NEG_tokenise, 585	是 超市 ， 还有 小吃 一条街 。 服务态度	差	！ 酒店 的 卫生 很 一般 ， 味道 比较 大 。 因为
+HUM_cat-hotel_pol-NEG_tokenise, 595	无功 无过 。 总结 一个 字 ： “	差	” ！ 环境 差 ， 服务 差 ！ 很 糟糕 的 一次
+HUM_cat-hotel_pol-NEG_tokenise, 595	一个 字 ： “ 差 ” ！ 环境	差	， 服务 差 ！ 很 糟糕 的 一次 住宿 体验 ！ 我
+HUM_cat-hotel_pol-NEG_tokenise, 595	“ 差 ” ！ 环境 差 ， 服务	差	！ 很 糟糕 的 一次 住宿 体验 ！ 我 可以 负责 任
+HUM_cat-hotel_pol-NEG_tokenise, 598	。 感觉 有 虫子 。 不太 卫生 服务	差	！ ！ ！ 我 住 的 是 6 号房 ， 无窗 ，
+HUM_cat-hotel_pol-NEG_tokenise, 605	宾馆 太 需要 改进 了 ！ 见 过	差	的 四星 ， 没见 过 这么 差 的 四星 。 千万 不要
+HUM_cat-hotel_pol-NEG_tokenise, 605	过 差 的 四星 ， 没见 过 这么	差	的 四星 。 千万 不要 住 ， 晚上 还有 骚扰电话 如果 只是
+HUM_cat-hotel_pol-NEG_tokenise, 608	。 酒店 老 ， 房间 小 ， 早餐	差	。 周围 正在 修路 ， 乱 得 一塌糊涂 。 想 找 个
+HUM_cat-hotel_pol-NEG_tokenise, 610	小吃 还是 不少 的 。 隔音 效果 太	差	， 窗外 空调机 闹 得 一 晚上 没 睡着觉 ， 第二天 就
+HUM_cat-hotel_pol-NEG_tokenise, 612	设施 最多 2 星 。 服务 人员素质 太	差	， 让 不是 一个 房间 的 人 把 行李 拿走 。 环境
+HUM_cat-hotel_pol-NEG_tokenise, 615	再 什么 都 不 满意 一切 都 很	差	！ 服务 不好 ！ 服务员 素质 没教养 ！ 特别 是 一楼 餐厅
+HUM_cat-hotel_pol-NEG_tokenise, 616	隔壁 房间 聊天 都 能 听到 ～ 非常	差	的 入住 体验 ！ 是 拿 原来 一栋 老楼 改建 的 ，
+HUM_cat-hotel_pol-NEG_tokenise, 622	南苑 机场 打车 ￥ 31 元 。 性价比	差	。 建议 住 大红门 附近 ， 距 南苑 机场 近 些 。
+HUM_cat-hotel_pol-NEG_tokenise, 625	蚊香 千万别 住 这家 酒店 真的 非常 非常	差	， 服务 人员 的 态度 也 极度 差 ， 我 早餐券 不见
+HUM_cat-hotel_pol-NEG_tokenise, 625	差 ， 服务 人员 的 态度 也 极度	差	， 我 早餐券 不见 了 ， 我 要求 前台 补 一张 ，
+HUM_cat-hotel_pol-NEG_tokenise, 625	携程 投诉 ？ 或者 携程 怎么 推荐 这么	差	的 酒店 给 客户 ？ 如家 的 服务态度 都 没 这么 差
+HUM_cat-hotel_pol-NEG_tokenise, 625	客户 ？ 如家 的 服务态度 都 没 这么	差	， 住 了 那么 多 酒店 ， 真是 第一次 遇到 这样 的
+HUM_cat-hotel_pol-NEG_tokenise, 627	去入 往 。 服务 很差 ， 卫生 也	差	只有 服务态度 是 好 的 ， 只住 了 一夜 ， 全身 过敏
+HUM_cat-hotel_pol-NEG_tokenise, 629	一个 字 “ 烂 ” ， 从未见过 如此	差	的 早餐 ， 我 8 点去 稀饭 都 没 了 ， 问
+HUM_cat-hotel_pol-NEG_tokenise, 630	预定 要压 信用卡 ， 不能取消 。 酒店 周围环境	差	， 内部 也 很 旧 ， 卫生 不好 ， 很脏 ， 总之
+HUM_cat-hotel_pol-NEG_tokenise, 635	房间 阴暗 压抑 ， 停车 不 方便 非常	差	的 古老 的 所谓 星级 酒店 ， 物非 所值 － － 洗手间
+HUM_cat-hotel_pol-NEG_tokenise, 647	为了 第二天 的 早班 航班 里面 设施 太	差	， 物不所值 房间 地毯 很脏 ， 设施 一般 ， 比较 旧 。
+HUM_cat-hotel_pol-NEG_tokenise, 653	可以 寄存 东西 ， 这个 很 好 。	差	！ 再 不会 住 了 第一天 到 ， 晚上 给 个 吹风机
+HUM_cat-hotel_pol-NEG_tokenise, 653	… 什么 破 宾馆 。 一次性 用品 都	差	的 要死 ， 很多 老旧 了 ， 幸好 我 自带 了 很多
+HUM_cat-hotel_pol-NEG_tokenise, 659	， 38 一人 ， 另外 付款 。 质量	差	。 从未 住 过 态度 如此 差 的 酒店 ！ 我们 两个
+HUM_cat-hotel_pol-NEG_tokenise, 660	质量 差 。 从未 住 过 态度 如此	差	的 酒店 ！ 我们 两个 房间 ， 一个 房间 落 了 一块
+HUM_cat-hotel_pol-NEG_tokenise, 662	没有, 酒店 3 楼 的 餐厅 更是	差	极了, 而 菜单 里 没 几样 菜 有 的, 摆明
+HUM_cat-hotel_pol-NEG_tokenise, 690	。 总结 ： 硬件 老旧 ， 服务 太	差	。 春节 期间 住 了 一晚 ， 房价 高不说 ， 房间内 的
+HUM_cat-hotel_pol-NEG_tokenise, 694	的 上海 的 商务 成本 越来越 高 这样	差	的 酒店 ， 居然 也 能 得到 不错 的 评价 吃 ：
+HUM_cat-hotel_pol-NEG_tokenise, 694	走段 路 提醒 ： 前台 的 服务 特别	差	。 房间 内部 设施 老旧 ， 修电 的 老工人 敲 错门 ，
+HUM_cat-hotel_pol-NEG_tokenise, 700	和 设施 以及 地点 都 非常 非常 的	差	， 特别 的 硬件 设施 不是 水管 坏 了 ， 就是 电视
+HUM_cat-hotel_pol-NEG_tokenise, 703	说 一下 这家 宾馆 前台 服务 实在 是	差	， 很差 ， 非常 差 ！ 简直 就是 欺骗 顾客 ！ 在
+HUM_cat-hotel_pol-NEG_tokenise, 703	服务 实在 是 差 ， 很差 ， 非常	差	！ 简直 就是 欺骗 顾客 ！ 在 拍 时 就 选 拍
+HUM_cat-hotel_pol-NEG_tokenise, 704	的 奇葩 ， 差劲 透 了 ！ 周边环境	差	， 房间 卫生 差 ， 房间 设施 老旧 ， 服务 差 （
+HUM_cat-hotel_pol-NEG_tokenise, 704	透 了 ！ 周边环境 差 ， 房间 卫生	差	， 房间 设施 老旧 ， 服务 差 （ 接送 车辆 接送 不
+HUM_cat-hotel_pol-NEG_tokenise, 704	卫生 差 ， 房间 设施 老旧 ， 服务	差	（ 接送 车辆 接送 不 到位 ， 电话 接 不通 ， 卫生设备
+HUM_cat-hotel_pol-NEG_tokenise, 705	房间 太小 ， 过道 太窄 ， 隔音 太	差	， 加上 卫生间 漏水 到 地板 ， 价格 却 比汉庭 高出 近
+HUM_cat-hotel_pol-NEG_tokenise, 706	不值 。 服务 还 可以 ， 酒店 是	差	了 些 除了 环境 比较 好 ， 在 云龙 公园 对面 ，
+HUM_cat-hotel_pol-NEG_tokenise, 708	半夜 被 蚊子 打扰 几次 一个 字:	差	酒店设施 非常 一般 ， 连 三星 都 不如 ， 甚至 连 一些
+HUM_cat-hotel_pol-NEG_tokenise, 709	一般 。 价格 非常 不值 ， 性价比 太	差	。 以后 不会 再 入住 。 又 没有 人 尝试 过 在
+HUM_cat-hotel_pol-NEG_tokenise, 713	* * 不是 。 从未 住 过 如此	差	的 宾馆 ， 性价比 差 ， 不 推荐 入住 入住 单 人大
+HUM_cat-hotel_pol-NEG_tokenise, 713	住 过 如此 差 的 宾馆 ， 性价比	差	， 不 推荐 入住 入住 单 人大 床 标准间: 给 人
+HUM_cat-hotel_pol-NEG_tokenise, 715	联系 总台.? 酒店 服务员 态度 十分	差	， 作为 服务行业 对待 客人 的 态度 十分 不耐烦 ， 而且 管理混乱
+HUM_cat-hotel_pol-NEG_tokenise, 716	简陋 ， 而且 霉味 较 重 差差 差差	差	！ 卫生 极度 差 ！ 没有 早餐 配送 ， 这是 骗人 的
+HUM_cat-hotel_pol-NEG_tokenise, 716	较 重 差差 差差 差 ！ 卫生 极度	差	！ 没有 早餐 配送 ， 这是 骗人 的 电话 没人接 听 语音
+HUM_cat-hotel_pol-NEG_tokenise, 719	的 酒店 向来 这样 ， 又 贵 又	差	！ 房间 里面 那个 叫 热 啊 ， 开 了 空调 制冷
+HUM_cat-hotel_pol-NEG_tokenise, 735	不好 能 不住 就 尽量 别住 吧 ，	差	就 一个 字 ， 反正 住 了 一天 我 就 换 地方
+HUM_cat-hotel_pol-NEG_tokenise, 738	也 没有 ， 显得 有些 荒凉 。 服务态度	差	， 房间 在 环线 边上 ， 噪音 非常 大 不会 再 去
+HUM_cat-hotel_pol-NEG_tokenise, 748	！ ！ ！ 说 是 五星 ， 服务	差	的 没话说 ， check in 速度慢 的 跟 乌龟 一样 ； 订
+HUM_cat-hotel_pol-NEG_tokenise, 749	床单 还有 滩 干掉 的 血 ～ 非常	差	的 一家 酒店, 虽然 前台 小姐 开房 时 对 你 郑重声明
+HUM_cat-hotel_pol-NEG_tokenise, 753	女士 外, 其它 的 人员 都 很	差	, 前台 完全 是 招待所 的 感觉, 而且 是 国营 的
+HUM_cat-hotel_pol-NEG_tokenise, 756	， 房间 消费 常 搞错 ， 服务 太	差	。 名 过于 实 。 一般 在 一般 还是 一般 。 入住
+HUM_cat-hotel_pol-NEG_tokenise, 760	点 看 都 不是 五星 标准 ， 差差	差	。 小木屋 的 隔音 相当 差, 而且 房间 间隔 很近,
+HUM_cat-hotel_pol-NEG_tokenise, 761	， 差差 差 。 小木屋 的 隔音 相当	差	, 而且 房间 间隔 很近, 门口 就是 过道. 由于 游客
+HUM_cat-hotel_pol-NEG_tokenise, 765	！ 恶心 了 一上午 。 酒店 前台 服务	差	， 很差 ， 非常 差 ！ 欺骗 顾客 ！ 用 204 元无窗
+HUM_cat-hotel_pol-NEG_tokenise, 765	酒店 前台 服务 差 ， 很差 ， 非常	差	！ 欺骗 顾客 ！ 用 204 元无窗 暗房 偷 替换 已付 了
+HUM_cat-hotel_pol-NEG_tokenise, 766	， 结果 房间 非常 小 ， 硬件 设施	差	， 洗手间 洗澡 的 时候 积水 严重 ， 老公 抱怨 我 为了
+HUM_cat-hotel_pol-NEG_tokenise, 766	老公 抱怨 我 为了 省钱 ， 订 这么	差	的 房间 ， 本来 打算 住 两晚 的 ， 住 了 一晚
+HUM_cat-hotel_pol-NEG_tokenise, 768	后悔 死 了 这 是 住 过 非常	差	的 一次 酒店 。 晚上 加床 ， 对方 说 因为 你们 不
+HUM_cat-hotel_pol-NEG_tokenise, 771	了 一点 。 。 。 。 酒店 太	差	。 定 298 元 ， 前台 收 318 元 ， 我要 投诉
+HUM_cat-hotel_pol-NEG_tokenise, 810	服务 很差 ， 比 一般 连锁 酒店 还	差	， 跟 他 说话 爱 搭 不理 ， 以后 不会 再 住
+HUM_cat-hotel_pol-NEG_tokenise, 811	再 住 了 。 酒店 房间 设施 比较	差	， 卫生 也 一般 ， 有股 味道 。 就是 位置 还 算
+HUM_cat-hotel_pol-NEG_tokenise, 813	很 不 满意 。 前台 服务 人员素质 太	差	， 脾气 不好 ， 房间 设施 不全 。 充电器 插头 太 少
+HUM_cat-hotel_pol-NEG_tokenise, 815	不住 了 前台 服务 极其 恶劣 服务 太	差	酒店设施 陈旧 ， 服务员 态度生硬 ， 位置 也 较 偏僻 。 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 826	价格 还 算 公道 缺点: 房间 设备	差	, 几乎 就是 招待所 的 标准, 周围环境 脏乱差, 噪音 大
+HUM_cat-hotel_pol-NEG_tokenise, 828	很 臭 ， 空调 声音 很大 ， 效果	差	！ 水 也 很小 ， 房间内 只有 一个 插座 且 是 松动
+HUM_cat-hotel_pol-NEG_tokenise, 828	早餐 贵且 不好 ， 品种 少 ， 口味	差	！ 另外 ， 离 地铁口 远 ！ 房间 里 的 硬件 设施
+HUM_cat-hotel_pol-NEG_tokenise, 830	睡着 ， 崩溃 ！ 房间 隔音 效果 太	差	春节 前往 香港 度假 ， 入住 富豪 东方 酒店 。 该 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 836	接送 巴士 ， 方便 赶 航班 。 性价比	差	一进 酒店 就 闻到 一股 刺鼻 的 难闻 味道 ， 房间 也
+HUM_cat-hotel_pol-NEG_tokenise, 838	糟糕 的 三星级 酒店, 比 招待所 还	差	。 一 、 相当 的 脏 ， 地毯 又 旧 又 黑
+HUM_cat-hotel_pol-NEG_tokenise, 839	， 空调 坏 了 还 没法用 ， 服务	差	， 果断 退房 。 真的 千万别 在 这 吃饭 坑 死 了
+HUM_cat-hotel_pol-NEG_tokenise, 844	- 铁锈 的 颜色 。 早餐 也 很	差	, 没有 什么 东西 可 吃 的 。 和 同级 别的 如
+HUM_cat-hotel_pol-NEG_tokenise, 845	的 垃圾 饭 ； 3 ， 服务 超级	差	， 明明 知道 三楼 装修 ， 还 把 我们 安排 在 三楼
+HUM_cat-hotel_pol-NEG_tokenise, 854	糟糕 的 是 ， 隔 ！ 音 ！	差	！ 到 ！ 爆 ！ 半夜 隔壁 妹子 的 叫床声 听 的
+HUM_cat-hotel_pol-NEG_tokenise, 857	很脏 。 。 环境 不错 ， 服务 太	差	， 态度生硬 。 服务 很差 ， 晚上 竟然 停电 了 2 -
+HUM_cat-hotel_pol-NEG_tokenise, 859	没有 ） 。 真是 恶心 ！ 印象 太	差	， 下次 不会 再 考虑 入住 该 酒店 ！ 虽说 合肥 的
+HUM_cat-hotel_pol-NEG_tokenise, 860	比较 差能 理解, 但 没见 过 这么	差	的 服务 及 酒店设施! 还 四星级 呢, 简直 不如 街边
+HUM_cat-hotel_pol-NEG_tokenise, 861	很小 ， 一些 用品 的 质量 也 很	差	， 牙刷 掉 毛 严重 ， 当然 我 应该 自己 带 ，
+HUM_cat-hotel_pol-NEG_tokenise, 879	都 睡不着 。 从未 住 过 的 这么	差	的 5 星级 酒店, 一家人 开车 去 玩, 8 月
+HUM_cat-hotel_pol-NEG_tokenise, 899	拖拉机; 我 真 不知 携程 现在 越来越	差	了 '我 现在 只能 每去 一个 地方 跟 人 酒店 去
+HUM_cat-hotel_pol-NEG_tokenise, 911	就 可以 看出 ~ ~ ~ 设施 非常	差	， 味道 难闻 ， 卫生 恶劣 ， 最 糟糕 的 是 还有
+HUM_cat-hotel_pol-NEG_tokenise, 912	而 至 满意 而 归 。 态度 超级	差	， 超级 差 ， 超级 差 。 设施 也 不好 ， 性价比
+HUM_cat-hotel_pol-NEG_tokenise, 912	而 归 。 态度 超级 差 ， 超级	差	， 超级 差 。 设施 也 不好 ， 性价比 低 。 因为
+HUM_cat-hotel_pol-NEG_tokenise, 912	态度 超级 差 ， 超级 差 ， 超级	差	。 设施 也 不好 ， 性价比 低 。 因为 银行 已 打烊
+HUM_cat-hotel_pol-NEG_tokenise, 913	行李 还 没 保障 吗 ？ 应变能力 有够	差	的 ， 另外 在 退房 时 前台 的 服务 人员 态度 不佳
+HUM_cat-hotel_pol-NEG_tokenise, 916	大 ， 交通 也 方便 ， 就是 卫生	差	， 服务态度 差 。 酒店 很差 ， 虽然 挂牌 4 星 ，
+HUM_cat-hotel_pol-NEG_tokenise, 916	也 方便 ， 就是 卫生 差 ， 服务态度	差	。 酒店 很差 ， 虽然 挂牌 4 星 ， 但 只有 准
+HUM_cat-hotel_pol-NEG_tokenise, 921	近 总体 来看 ， 酒店 价高 ， 设施	差	， 不 值得 推荐 。 价格 338 元 标准间 ， 在 同类
+HUM_cat-hotel_pol-NEG_tokenise, 926	严重 入住 宾馆 很 失望, 环境 比较	差	, 房间 像 招待所, 正个 房间 充满 着 一股 下水道 的
+HUM_cat-hotel_pol-NEG_tokenise, 933	， 甚至 连 自助 早 ， 都 要	差	很多 。 订房 的 时候 总 想不起 皇家 国际饭店 的 具体 名字
+HUM_cat-hotel_pol-NEG_tokenise, 939	的 就 很 不好 ！ 房间 配置 也	差	， 毛巾 都 是 须 边 ！ 连 住 三次 每个 房间
+HUM_cat-hotel_pol-NEG_tokenise, 939	了 间 尾房 就算 了 隔音 还 超级	差	！ 还有 一次 快 睡着 了 浴室 突然 开始 滴水 真的 是
+HUM_cat-hotel_pol-NEG_tokenise, 944	还 可以 ， 设施 就 不是 一般 的	差	， 第一个 房间 网口 坏 了 不能 上网 ， 换个 房间 ，
+HUM_cat-hotel_pol-NEG_tokenise, 948	较 陈旧 卫生 状况不佳 总机 服务 人员 态度	差	空调 噪音 大 离 机场 近 ， 晚上 比较 吵 酒店 接送
+HUM_cat-hotel_pol-NEG_tokenise, 950	， 充满 烟味 ， 司机 和 前台 服务	差	到极点 ， 多问 一句 就 出言 顶撞 ， 而且 担保 预定 入住
+HUM_cat-hotel_pol-NEG_tokenise, 953	还烂 了! 这是 五星 酒店 吗?	差	! 差! 差! 还 600 多一晚! 真 不可思议!
+HUM_cat-hotel_pol-NEG_tokenise, 953	! 这是 五星 酒店 吗? 差!	差	! 差! 还 600 多一晚! 真 不可思议! 通过 携程
+HUM_cat-hotel_pol-NEG_tokenise, 953	五星 酒店 吗? 差! 差!	差	! 还 600 多一晚! 真 不可思议! 通过 携程 预定 后
+HUM_cat-hotel_pol-NEG_tokenise, 957	的 ， 服务员 态度 不怎么样 。 前台 服务态度	差	到极点 ， 我要 投诉 。 我 帮 爸妈 在 手机 上订 的
+HUM_cat-hotel_pol-NEG_tokenise, 960	， 不 推荐 ， 从来 没住 过 这么	差	的 酒店 水壶 换 了 3 个 、 标房 双床 才 给
+HUM_cat-hotel_pol-NEG_tokenise, 961	航站楼 出发 口 ， 真是 醉 了 ～	差	一分钟 就 误机 了 。 订 了 一间 420 多 的 房间
+HUM_cat-hotel_pol-NEG_tokenise, 965	档次 太低 ， 房间 太小 ， 设施 太	差	， 一台 电梯 。 酒店 房间 没有 桌子 第一次 遇到 竟然 还有
+HUM_cat-hotel_pol-NEG_tokenise, 975	就是 房间 太老 了 ， 卫生 也 很	差	， 不过 里面 挺 适合 放松 的 ， 有 一个 园林 离
+HUM_cat-hotel_pol-NEG_tokenise, 976	园林 离 机场 太远 ， 性能 价格比 太	差	， 前台 态度 野蛮 ， 勘比山 村野 店 。 三个 字 ：
+HUM_cat-hotel_pol-NEG_tokenise, 977	。 三个 字 ： 脏 、 乱 、	差	！ 房间 里面 看上去 还 可以 ， 但是 仔细 看 ， 很多
+HUM_cat-hotel_pol-NEG_tokenise, 979	多次 入住 了 。 个人感觉 现在 是 越来越	差	。 6 / 17 早晨 3 点多 ， 还是 那 一班 火车
+HUM_cat-hotel_pol-NEG_tokenise, 982	不如 200 多 的 酒店 ！ 早餐 也	差	的 一比 ！ 总之 无 语 ！ 下次 再也 不住 了 ！
+HUM_cat-hotel_pol-NEG_tokenise, 992	很晚 到 的 酒店 酒店 一般般 服务 太	差	跟 其他 的 分店 根本 就 没法 比 虽说 是 连锁店 也
+HUM_cat-hotel_pol-NEG_tokenise, 1004	早餐 水平 比如 家 的 十元 的 还	差	。 服务员 根本 不够 用 ， 我 自己 收拾 了 一 桌子
+HUM_cat-hotel_pol-NEG_tokenise, 1005	上海 路边 的 公共厕所 都 不会 比 它	差	。 房间 ？ 也 就 二星级 的 水准 ， 糊弄 客人 也
+HUM_cat-hotel_pol-NEG_tokenise, 1008	放在 床头 ， 很 不 方便 服务 有点	差	， 连续 两天 我 想 借 荞麦皮 枕头 都 没有 ， 尤其
+HUM_cat-hotel_pol-NEG_tokenise, 1010	高大 上 的 ， 可是 房间 不要 太	差	。 进 房间 的 时候 有 一股 异味 ， 床单 感觉 是
+HUM_cat-hotel_pol-NEG_tokenise, 1012	噪音 大 （ 隔音 效果 相比 二楼 以上	差	很多 ） ， 而且 蚊子 多 的 不得了 ， 一晚 没 睡
+HUM_cat-hotel_pol-NEG_tokenise, 1017	00 ， 一间 22 ： 00 ， 早餐	差	用餐 一般 ， 价格比 一般 稍贵 ， 签单 付账 时 千万 注意
+HUM_cat-hotel_pol-NEG_tokenise, 1019	房费 还 把 政治 搬出来 吓人 态度 太	差	我 去过 的 酒店 都 有 中午 退 房前 电话 询问 是否
+HUM_cat-hotel_pol-NEG_tokenise, 1026	本想 休息 几天 ， 但 住宿 实在 太	差	， 干脆 一家人 ， 勉强 住 了 两夜 就 退房 走 人
+HUM_cat-hotel_pol-NEG_tokenise, 1027	了 两夜 就 退房 走 人 。 硬件	差	， 环境 一般 ， 卫生 差 ， 没得 可 说 的 入住
+HUM_cat-hotel_pol-NEG_tokenise, 1027	。 硬件 差 ， 环境 一般 ， 卫生	差	， 没得 可 说 的 入住 的 经济 客房, 一 开门
+HUM_cat-hotel_pol-NEG_tokenise, 1030	居然 是 三星 简直 让 人 无法 相信	差	， 太差 了 ， 可惜 没 0 分 ， 有 0 分
+HUM_cat-hotel_pol-NEG_tokenise, 1032	说不清 2 ， 房间 面积 和 形状 非常	差	， 看 他们 酒店 建筑 的 外观 就 能 看 的 出来
+HUM_cat-hotel_pol-NEG_tokenise, 1032	的 菜 难吃 的 很 ， 早点 特别	差	， 根本 就 不 像 一个 四星级 酒店 的 早餐 标准 4
+HUM_cat-hotel_pol-NEG_tokenise, 1032	电梯 ， 过 道 ， 餐厅 ， 非常	差	， 卫生间 就 一 招待所 标准 ， 根本 够不上 四星 ！ ！
+HUM_cat-hotel_pol-NEG_tokenise, 1033	了 ， 我 真的 被 气死 了 十分	差	， 服务 ， 环境 ， 从 大堂 到 房间 要行 一段路 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1035	异味 更 不用说 了 。 前台 服务 太	差	订 的 一般 标准间 ￥ 228 的 ， 在 前台 等 了
+HUM_cat-hotel_pol-NEG_tokenise, 1057	主要 的, 最 主要 的 是 质量	差	的 东西 能 伤人, 我 打开 没 用力 就 破,
+HUM_cat-hotel_pol-NEG_tokenise, 1062	整个 事情 的 具体 过程 。 北京 从不	差	五星级 酒店 ， 而且 一个 五星级 酒店 的 员工 ， 摆 不正
+HUM_cat-hotel_pol-NEG_tokenise, 1081	在 酒店 住 的 时候 环境 相当 的	差	， 卫生 不 打扫 ， 前台 服务态度 相当 的 差 ， （
+HUM_cat-hotel_pol-NEG_tokenise, 1081	卫生 不 打扫 ， 前台 服务态度 相当 的	差	， （ 个别 的 ） 还有 那个 保健 中心 的 服务员 素质
+HUM_cat-hotel_pol-NEG_tokenise, 1081	还有 那个 保健 中心 的 服务员 素质 太	差	， 足浴 不到 时间 就 完事 了 ， 还 理直气壮 的 说
+HUM_cat-hotel_pol-NEG_tokenise, 1091	看看 最后 也 没来 2 ， 因为 有时	差	， 凌晨 0 点 入住 ， 说 下午 六点 前 退房 算一天
+HUM_cat-hotel_pol-NEG_tokenise, 1099	前台 和 早餐 的 服务 ， 绝对 的	差	到极点 房间 冷 ， 卫生 差 ， 布草 几乎 都 破损 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1100	绝对 的 差 到极点 房间 冷 ， 卫生	差	， 布草 几乎 都 破损 ， 很 不 满意 。 感觉 服务
+HUM_cat-hotel_pol-NEG_tokenise, 1101	破损 ， 很 不 满意 。 感觉 服务	差	不 负责 不能 代表 北京 形象 了 ， 什么 破 酒店 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1102	， ， 服务 一般 ， 房间 卫生 太	差	， 居然 有 蟑螂 弄 的 我 和 我 老公 身上 满是
+HUM_cat-hotel_pol-NEG_tokenise, 1106	， 太小 了 电视 不能 看 ， 服务	差	… 价格 还 可以 ， 位置 也 不错 ， 就是 房间 装修
+HUM_cat-hotel_pol-NEG_tokenise, 1116	！ 酒店 实际 的 情况 比 网上 要	差	， 也许 是因为 太远 了 。 而且 前台 价比 协程 还 便宜
+HUM_cat-hotel_pol-NEG_tokenise, 1126	什么 时候 了 ， 还 狗眼看人 ， 差差	差	。 入住 了 单人间 ， 房间 不是 非常 小 ， 而是 只能
+HUM_cat-hotel_pol-NEG_tokenise, 1135	照坑! 黑心 啊!!! 非常	差	的 服务 ！ ！ ！ ！ 我 和 几个 朋友 约 好
+HUM_cat-hotel_pol-NEG_tokenise, 1137	房间 小 而且 脏 呀, 服务态度 也	差	(员工 都 是 上海 人 ， 没有 客人 的 时候 保安
+HUM_cat-hotel_pol-NEG_tokenise, 1138	怎么 给 推荐 这种 酒店 呀! 早餐	差	. 设施 陈旧! 咋 都 不值! 在 南阳 ， 现在
+HUM_cat-hotel_pol-NEG_tokenise, 1140	洗 淑 用品 包括 毛巾 质量 都 很	差	. 房间 有 一股 味道. 用 我 的 笔记本 上网 时好时坏
+HUM_cat-hotel_pol-NEG_tokenise, 1147	50 元 一斤 ， 还少 秤 味道 也	差	一盘 炒 黄瓜 要 18 元 根本 是 露天 排档 的 环境
+HUM_cat-hotel_pol-NEG_tokenise, 1148	脱漆 摇晃 了 很 过分 比 以前 要	差	了 ， 一股 味 ， 就 剩到 机场 方便 的 优点 了
+HUM_cat-hotel_pol-NEG_tokenise, 1149	剩到 机场 方便 的 优点 了 。 差差	差	！ 一夜 无眠 ， 半夜 就 想 走 了 ！ 床头 的
+HUM_cat-hotel_pol-NEG_tokenise, 1159	酒店 服务员 说 的 ） 感觉 酒店 越来越	差	了, 首先 是 取消 了 小车 从 大厅 三楼 到 西楼
+HUM_cat-hotel_pol-NEG_tokenise, 1159	空 的, 一次性 的 脱鞋 质量 太	差	, 鞋面 直接 脱线 翻面, 早餐 也 很 糟糕, 是
+HUM_cat-hotel_pol-NEG_tokenise, 1161	酒店 的 管理 不 专业 ， 服务 非常	差	， 房间 的 空调 不足 ， 冬天 的 被子 象 夏天 被
+HUM_cat-hotel_pol-NEG_tokenise, 1164	以后 可 就 难说 了 ． 服务态度 太	差	！ 早餐 很差 ， check - in 服务 也 差 ， 我
+HUM_cat-hotel_pol-NEG_tokenise, 1165	早餐 很差 ， check - in 服务 也	差	， 我 预定 的 无烟 大床 ， 结果 进 房间 发现 是
+HUM_cat-hotel_pol-NEG_tokenise, 1169	与 上海 相比 ， 但是 价格便宜 。 隔音	差	， 设施 旧 ， 一大早 来 敲门 问 有没有 衣服 干洗 。
+HUM_cat-hotel_pol-NEG_tokenise, 1171	爱理不理 的, 然后 酒店 内部 就 更	差	了, 很大 味道 很 严重 的 发霉 味, 床铺 也
+HUM_cat-hotel_pol-NEG_tokenise, 1172	： 另外 这个 酒店 的 配套 设施 简直	差	到极点, 棋牌室 居然 是 3 个 桌子 放在 很小 的 一间
+HUM_cat-hotel_pol-NEG_tokenise, 1175	班 。 酒店 前台 的 服务态度 实在 太	差	。 差 的 没话说 了 ， 我 同事 在 这里 吃 了
+HUM_cat-hotel_pol-NEG_tokenise, 1176	酒店 前台 的 服务态度 实在 太 差 。	差	的 没话说 了 ， 我 同事 在 这里 吃 了 三次 早餐
+HUM_cat-hotel_pol-NEG_tokenise, 1176	千万别 续住 。 前台 的 态度 也 很	差	， 好像 都 欠 了 他们 的 钱 一样 。 空调 声音
+HUM_cat-hotel_pol-NEG_tokenise, 1176	虽然 是 正规 出租 但是 素质 都 很	差	， 近距离 就 拒载 ， 远距离 就 绕路 ， 和 青岛 有
+HUM_cat-hotel_pol-NEG_tokenise, 1183	满意 ， 很 不 满意 ， 服务 太	差	。 无法 想象 。 唯一 一个 优点 就是 有 免费 班车 。
+HUM_cat-hotel_pol-NEG_tokenise, 1185	。 前台 接待 极差 热水 不热 ， 服务态度	差	马马虎虎 马马虎虎 可以 机场 的 过度 酒店 ， 非常 差 是 我
+HUM_cat-hotel_pol-NEG_tokenise, 1187	马马虎虎 可以 机场 的 过度 酒店 ， 非常	差	是 我 家住 过 的 最差 的 酒店 ！ 居然 还是 携程
+HUM_cat-hotel_pol-NEG_tokenise, 1188	携程 的 推荐 ！ 理由 ： 工作人员 素质	差	。 房间 设备 质量 差 。 早餐 环境 像 闹市 。 因为
+HUM_cat-hotel_pol-NEG_tokenise, 1188	： 工作人员 素质 差 。 房间 设备 质量	差	。 早餐 环境 像 闹市 。 因为 是 自驾游 ， 考虑 到
+HUM_cat-hotel_pol-NEG_tokenise, 1198	交通 混乱 ， 早餐 品种 少 、 品质	差	， 优胜 之处 是 周边 的 交通 方便 。 天 啊 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1205	服务 不太好 ， 一副 爱理不理 的 实在 是	差	啊!! 我 当晚 住 的 是 双人房, 三楼 餐厅
+HUM_cat-hotel_pol-NEG_tokenise, 1207	的 优势 吧 。 该 酒点 实在 太	差	, 携程 非常 不 负责, 我花 308 住 豪华 房,
+HUM_cat-hotel_pol-NEG_tokenise, 1209	登堂入室 ， 其 保安 工作 质量 是 相当	差	的 ， 客人 的 人身安全 也 时刻 受到 威胁 。 而且 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1214	Ｉ Ｐ 也 该 反思 了 。 有点	差	可能 便宜 的 原因 吧 １ 、 服务 很差 。 我订 的
+HUM_cat-hotel_pol-NEG_tokenise, 1216	停车 。 不 方便 。 酒店 服务 比较	差	， 前台 态度恶劣 ， 真是 不 建议 出行 入住 ， 还是 应该
+HUM_cat-hotel_pol-NEG_tokenise, 1218	不 推荐 住 这家 ， 服务 非常 的	差	， 特别 是 餐厅 短 头发 那个 大姐 太烦人 。 订 的
+HUM_cat-hotel_pol-NEG_tokenise, 1226	都 找 不到 ！ 没有 比 这 更	差	的 酒店 了 。 房间 灯光 暗淡 ， 空调 无法 调节 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1229	客人 避免 入住 （ 有失身份 ） ， 早餐	差	， 刚 装修 完 ， 走廊 房间 还有 味道 ， 我 爱人
+HUM_cat-hotel_pol-NEG_tokenise, 1231	不错, 其他 很 一般, 房间 设施	差	, 房间 太小, 不过 价格 很 便宜, 属于 一般 选择
+HUM_cat-hotel_pol-NEG_tokenise, 1248	， 想想 好 也好 不到 哪里 去 ，	差	也 差 不到 哪里 去 ， 但是 到 前台 用 我 的
+HUM_cat-hotel_pol-NEG_tokenise, 1248	好 也好 不到 哪里 去 ， 差 也	差	不到 哪里 去 ， 但是 到 前台 用 我 的 卡帮 他
+HUM_cat-hotel_pol-NEG_tokenise, 1253	一般 离 地铁站 有点 远 ， 房门 隔音	差	， 地毯 脏 酒店 服务 是 最差 的 ～ 去 办 入住
+HUM_cat-hotel_pol-NEG_tokenise, 1261	不 开 。 床上 的 用品 也 很	差	， 被子 也 薄 。 楼上 的 餐厅 超贵 ， 一个 西红柿
+HUM_cat-hotel_pol-NEG_tokenise, 1263	周边 太 荒凉 ， 买不到 东西 。 非常	差	， 服务 人员 态度 很 不好 ， 房间 设施 差 ， 隔音
+HUM_cat-hotel_pol-NEG_tokenise, 1263	服务 人员 态度 很 不好 ， 房间 设施	差	， 隔音 差 ， 矿泉水 只能 给 2 瓶 ， 黑黑 暗暗
+HUM_cat-hotel_pol-NEG_tokenise, 1263	很 不好 ， 房间 设施 差 ， 隔音	差	， 矿泉水 只能 给 2 瓶 ， 黑黑 暗暗 的 大厅 和
+HUM_cat-hotel_pol-NEG_tokenise, 1270	不到 五星 水准 。 价格 高 ， 环境	差	， 服务 一般 酒店 比较 一般 ， 隔音 不是 很 好 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1275	的 客服 介绍 了 四个 鬼星 前台 服务	差	， 用 客房 打电话 乱收费 ， 订 记入 住 时 前台 服务员
+HUM_cat-hotel_pol-NEG_tokenise, 1279	装修 效果 最多值 壹佰 捌 拾 一晚 非常	差	的 服务. 房间 和 床 比较 细小, 双人房 原本 还分
+HUM_cat-hotel_pol-NEG_tokenise, 1282	客人 打电话 时候 窃窃私语 。 总之 ， 比较	差	， 以后 坚决 不住 。 预定 的 要求 都 不能 被 满足
+HUM_cat-hotel_pol-NEG_tokenise, 1287	繁华 ， 设施 ， 房间 陈旧 酒店 服务	差	的 要死 ， 前台 2 个人 讲话 有气无力 的 ， 非常 不好
+HUM_cat-hotel_pol-NEG_tokenise, 1289	有点 疯 。 不会 再 去 了 。	差	， 电话 一直 打 不通 酒店 的 装修 比较 陈旧 ， 房间
+HUM_cat-hotel_pol-NEG_tokenise, 1290	隔音 ， 主要 是 卫生间 的 隔音 非常	差	， 只能 算是 一般 的 1 月 7 日 入住 ， 太
+HUM_cat-hotel_pol-NEG_tokenise, 1292	走 人 ！ 酒店 服务员 态度 很差 很	差	！ 房间 设施 太旧 ， 周边环境 不好 ！ 再也不会 住 它 了
+HUM_cat-hotel_pol-NEG_tokenise, 1300	未 ， 相当 恶心 酒店 个映 效果 太	差	！ 而且 窗户 打开 之后 居然 是 楼道 内 的 广告牌 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1305	入住 后 发现 房间 脏 、 乱 、	差	， 前台 服务员 态度 冰冷 ， 号召 大家 抵制 该 酒店 。
+HUM_cat-hotel_pol-NEG_tokenise, 1306	只能 在 酒店 里 吃 服务 才 那么	差	吗 。 。 要不是 第二天 的 飞机 绝对 不会 住 这个 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 1307	15 元 / 天. 2. 卫生	差	, 房间 地毯 很脏, 一个 一个 不 知道 是 什么 液体
+HUM_cat-hotel_pol-NEG_tokenise, 1310	！ 不 知道 什么 协议 ？ 宾馆 比较	差	， 我 估计 是 有 二星 升 到 三星 的 。 硬件
+HUM_cat-hotel_pol-NEG_tokenise, 1310	有 二星 升 到 三星 的 。 硬件	差	还 可以 忍受 ， 前台 服务 差 就让 人 难以忍受 了 。
+HUM_cat-hotel_pol-NEG_tokenise, 1310	硬件 差 还 可以 忍受 ， 前台 服务	差	就让 人 难以忍受 了 。 前台 的 服务 很差 。 一个 叫
+HUM_cat-hotel_pol-NEG_tokenise, 1310	年 12 月 2 日 ： 宾馆 比较	差	， 我 估计 是 有 二星 升 到 三星 的 。 硬件
+HUM_cat-hotel_pol-NEG_tokenise, 1310	有 二星 升 到 三星 的 。 硬件	差	还 可以 忍受 ， 前台 服务 差 就让 人 难以忍受 了 。
+HUM_cat-hotel_pol-NEG_tokenise, 1310	硬件 差 还 可以 忍受 ， 前台 服务	差	就让 人 难以忍受 了 。 前台 的 服务 很差 。 一个 叫
+HUM_cat-hotel_pol-NEG_tokenise, 1310	又 碰到 了 这么 一个 上帝 ， 态度	差	的 你 不敢 想象 ， 好象 我 和 她 有 什么 深仇大恨
+HUM_cat-hotel_pol-NEG_tokenise, 1320	接送 机场 ， 住宿 条件 一般 服务 非常	差	， 入住 一个月 都 没有 更换 过 床单 ！ 房间内 连 洗发液
+HUM_cat-hotel_pol-NEG_tokenise, 1323	寄 到 国外 去 吗 ？ 服务 非常	差	, 环境 不好 ~ 建议 别去 ~ 提前 一个 星期 就定 好
+HUM_cat-hotel_pol-NEG_tokenise, 1328	. 三个 字 ： 脏 、 乱 、	差	！ 房间 里面 看上去 还 可以 ， 但是 仔细 看 ， 很多
+HUM_cat-hotel_pol-NEG_tokenise, 1331	。 。 。 。 前台 差得 不能 再	差	的 服务, 简直 就是 日 了 狗 一样 的 经理 和
+HUM_cat-hotel_pol-NEG_tokenise, 1332	差到 就 像是 你 妈 炸 了 非常	差	， 下次 肯定 不会 入住 了 ， 强烈建议 各位 不要 住 这个
+HUM_cat-hotel_pol-NEG_tokenise, 1332	礼宾 部 的 态度 还 可以 。 硬件	差	， 软件 再 好 也 没用 。 第二天 一 早就 转到 隔
+HUM_cat-hotel_pol-NEG_tokenise, 1349	12 楼大床 房, 房间 太小, 隔音	差	, 3 号 换 11 楼 双人间, 淋浴间 下水管 堵塞,
+HUM_cat-hotel_pol-NEG_tokenise, 1351	上 特别 脏 。 但是 有 专车接送 。	差	很差 。 。 。 。 。 。 。 。 。 。 。
+HUM_cat-hotel_pol-NEG_tokenise, 1356	保持 原样 。 5 、 酒店 早餐 太	差	， 除了 能吃口 稀饭 外 ， 其他 基本 没 东西 可 吃
+HUM_cat-hotel_pol-NEG_tokenise, 1356	骚扰电话 打搅 。 7 、 房间 牙具 太	差	， 住 了 3 个 晚上 ， 前 2 个 晚上 的
+HUM_cat-hotel_pol-NEG_tokenise, 1361	搬家 了 ， 地理位置 优越 ， 服务 非常	差	， 打扫卫生 不 干净 而且 很 不 及时 。 前台 接待 服务
+HUM_cat-hotel_pol-NEG_tokenise, 1361	而且 很 不 及时 。 前台 接待 服务	差	， 结帐 慢 ， 而且 业务 能力差 。 四星级 酒店 停车 居然
+HUM_cat-hotel_pol-NEG_tokenise, 1363	不 推荐 入住 ， 鉴定 完毕 ！ 非常	差	， 服务 差 。 房间 比较 大 ， 但 也 很 差
+HUM_cat-hotel_pol-NEG_tokenise, 1363	， 鉴定 完毕 ！ 非常 差 ， 服务	差	。 房间 比较 大 ， 但 也 很 差 ， 更 重要
+HUM_cat-hotel_pol-NEG_tokenise, 1363	。 房间 比较 大 ， 但 也 很	差	， 更 重要 的 是 临近 铁路 ， 很 吵 ！ 难怪
+HUM_cat-hotel_pol-NEG_tokenise, 1386	设施 老久 环境 一般 ， 性价比 不高 太	差	， 根本 不够 四星级 。 我 住 的 是 豪华 大床 房
+HUM_cat-hotel_pol-NEG_tokenise, 1392	, 其他 都 一般, 特别 是 隔音	差	的 不能 再差, 对 有 时间 且 喜欢 听 隔壁 做爱
+HUM_cat-hotel_pol-NEG_tokenise, 1401	！ 好 可怕 这个 酒店 ， 隔音 太	差	， 都 是 用 木板 隔 的 。 有 纯净 饮用水 口
+HUM_cat-hotel_pol-NEG_tokenise, 1403	是 呵呵 了 … … 这家 酒店 有点	差	， 1 ） 登记 大厅 客人 的 座位 一个 也 没有 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1403	值得 入住 ， 3 ） 前台 客服 服务	差	。 尼斯 酒店 的 几大 特点 ： 噪音 大 、 环境 差
+HUM_cat-hotel_pol-NEG_tokenise, 1404	的 几大 特点 ： 噪音 大 、 环境	差	、 配置 低 、 服务 效率 低 。 如 ： 1 、
+HUM_cat-hotel_pol-NEG_tokenise, 1405	提前 退房 的 经验 ， 一个 字 ：	差	1 。 傍晚 开始 宽带 不通 ， 拨 了 几次 电话 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1417	旧 啊 。 房间 隔音 比如 家汉庭 还	差	， 房间 和 隔壁 竟然 有个 木门 ， 隔壁 晚上 看电视 到
+HUM_cat-hotel_pol-NEG_tokenise, 1417	点 马上 决定 换 酒店 。 差差 差差	差	！ 酒店 除了 地理位置 很 好 之外 其他 都 不行 房间 隔音
+HUM_cat-hotel_pol-NEG_tokenise, 1418	很 好 之外 其他 都 不行 房间 隔音	差	卫生间 又 旧 又 脏 下次 再也不会 住 了 交通 方便,
+HUM_cat-hotel_pol-NEG_tokenise, 1420	并 不 加以 任何 说明 。 房间 非常	差	， 烟味 混着 老旧 的 臭味 ， 管理混乱 各种 设施 不 到位
+HUM_cat-hotel_pol-NEG_tokenise, 1423	餐馆 可以 吃饭 的 没想到 东苑 房间 这么	差	？ ！ 真是 未 评星 。 我定 的 房间 进门 要 抬腿
+HUM_cat-hotel_pol-NEG_tokenise, 1423	早餐 品种 还是 不少 ， 比起 以前 还是	差	了 。 楼道 墙上 贴 了 不少 饭店 老板 跟 XXX 军队
+HUM_cat-hotel_pol-NEG_tokenise, 1424	不 受 上海 税务局 管辖 吗 ？ 设施	差	旧 。 根本 不值 这个 价钱 还 不 干净 位置 比较 好
+HUM_cat-hotel_pol-NEG_tokenise, 1431	呀 ， 前台 服务员 高傲 服务态度 超级 超级	差	。 下次 来 浦东 肯定 不住 这里 。 服务 太差 了 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1438	， 下次 不会 再 选择 。 前台 服务	差	， 尤其 是 入住 时 接待 我 的 那位 ， 男性 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1438	饭菜 水平 较差 。 价格 贵 、 服务	差	， 看样子 真的 不能 住 了 。 前台 服务 太慢 ， 前台
+HUM_cat-hotel_pol-NEG_tokenise, 1444	不 配套 。 说实话 ， 这个 酒店 比较	差	， 去 天津 时 预先 看 了 下 酒店 地址 ， 富蓝特
+HUM_cat-hotel_pol-NEG_tokenise, 1452	没有 自己 的 停车场 ， 服务员 态度 太	差	， 携程 太不给力 了 ， 连 着 两年 在 携程 订 酒店
+HUM_cat-hotel_pol-NEG_tokenise, 1456	位置 ， 只是 饭店 的 住宿 条件 太	差	， 感觉 已经 开业 很多年 了 ， 但是 从 该 酒店 的
+HUM_cat-hotel_pol-NEG_tokenise, 1482	酒店 里算差 ， 比 火车站 那家 168 要	差	。 另外 对 酒店 的 服务 水准 非常 有 质疑 ， 当天
+HUM_cat-hotel_pol-NEG_tokenise, 1484	了 ！ ！ ！ 床单 很脏 ， 卫生	差	差 ， 除了 地段 好 ， 其他 都 差 ， 跟 招待所
+HUM_cat-hotel_pol-NEG_tokenise, 1485	！ ！ ！ 床单 很脏 ， 卫生 差	差	， 除了 地段 好 ， 其他 都 差 ， 跟 招待所 一样
+HUM_cat-hotel_pol-NEG_tokenise, 1485	差 ， 除了 地段 好 ， 其他 都	差	， 跟 招待所 一样 3 楼 是 ktv ， 很 吵 ；
+HUM_cat-hotel_pol-NEG_tokenise, 1487	adsl 猫 ， 他? 一个 字 ：	差	！ 设施 差 ， 服务 差 ， 环境 差 。 能 想到
+HUM_cat-hotel_pol-NEG_tokenise, 1487	他? 一个 字 ： 差 ！ 设施	差	， 服务 差 ， 环境 差 。 能 想到 的 一切 都
+HUM_cat-hotel_pol-NEG_tokenise, 1487	字 ： 差 ！ 设施 差 ， 服务	差	， 环境 差 。 能 想到 的 一切 都 差 ！ ！
+HUM_cat-hotel_pol-NEG_tokenise, 1487	！ 设施 差 ， 服务 差 ， 环境	差	。 能 想到 的 一切 都 差 ！ ！ ！ ！ ！
+HUM_cat-hotel_pol-NEG_tokenise, 1487	环境 差 。 能 想到 的 一切 都	差	！ ！ ！ ！ ！ 这次 的 感觉 一点 也 不好 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1497	， 绝对 不会 再 来 ！ 房价 也	差	， 服务 也 真差 ， 前台 个个 苦瓜脸 ， 比 快捷酒店 还
+HUM_cat-hotel_pol-NEG_tokenise, 1498	最烂 的 酒店 了, 比 招待所 还	差	, 外观 看起来 还好, 一 进去 吓一跳, 箱子 只能 往床
+HUM_cat-hotel_pol-NEG_tokenise, 1498	, 厕所 也 看起来 恐怖! 反正 就是	差	, 差, 差! 幸亏 只定 了 一天, 连澡 都
+HUM_cat-hotel_pol-NEG_tokenise, 1498	也 看起来 恐怖! 反正 就是 差,	差	, 差! 幸亏 只定 了 一天, 连澡 都 没洗,
+HUM_cat-hotel_pol-NEG_tokenise, 1498	恐怖! 反正 就是 差, 差,	差	! 幸亏 只定 了 一天, 连澡 都 没洗, 第 2
+HUM_cat-hotel_pol-NEG_tokenise, 1501	！ 不是 因为 近 也 不会 住 ！	差	！ 我 每次 从 合肥 回 台湾 前一晚 为 搭机 方便 而
+HUM_cat-hotel_pol-NEG_tokenise, 1502	住 了 五次 该店, 一次 比 一次	差	, check in 速度 之慢, 职员 还 互相 聊天. 房间
+HUM_cat-hotel_pol-NEG_tokenise, 1502	房间 照明 远远 不足, 网速慢, 态度	差	, 浴室 连 淋浴间 都 省 了 ， 只 剩 一块 帘子
+HUM_cat-hotel_pol-NEG_tokenise, 1506	， 住 过 一次 ， 又 没窗 隔音	差	又 压抑 早餐 还 差 ， 要不是 要 在 附近 办事 不会
+HUM_cat-hotel_pol-NEG_tokenise, 1506	又 没窗 隔音 差 又 压抑 早餐 还	差	， 要不是 要 在 附近 办事 不会 预定 ， 以后 都 不会
+HUM_cat-hotel_pol-NEG_tokenise, 1513	， 品种 少 的 可怜 （ 比 三星	差	很多 ） ， 比如 牛奶 只能 说 是 有 牛奶 味 的
+HUM_cat-hotel_pol-NEG_tokenise, 1518	酒店 太 差劲 了 。 评价 ： 服务态度	差	、 房间 差 、 没 停车场 … … 反正 一切 都 糟糕透顶
+HUM_cat-hotel_pol-NEG_tokenise, 1518	了 。 评价 ： 服务态度 差 、 房间	差	、 没 停车场 … … 反正 一切 都 糟糕透顶 ， 第二天 立马
+HUM_cat-hotel_pol-NEG_tokenise, 1524	浴室 设备 也 坏掉 ， 服务 也 很	差	。 因为 到 的 比较 晚 ， 入住 已经 差不多 11 点钟
+HUM_cat-hotel_pol-NEG_tokenise, 1531	用 身份证 登记 入住 ， 扯淡 ！ 服务态度	差	管理 差 住 两个 晚上 原价 入住 599 住 两晚 最后 付费
+HUM_cat-hotel_pol-NEG_tokenise, 1531	登记 入住 ， 扯淡 ！ 服务态度 差 管理	差	住 两个 晚上 原价 入住 599 住 两晚 最后 付费 2 千多
+HUM_cat-hotel_pol-NEG_tokenise, 1534	最 贵 最好 的 ， 性价比 实在 太	差	。 一般 ， 早餐 是 不让 人 喜欢 的 ， 。 。
+HUM_cat-hotel_pol-NEG_tokenise, 1536	的 ， 。 。 房间 卫浴 水准 太	差	， 面盆 的 下水 是 坏 的 ， 居然 要用 手去 把
+HUM_cat-hotel_pol-NEG_tokenise, 1537	， 没法 住 。 ctrip 不该 签 这么	差	的 房间 。 换 了 豪华 标间 后 ， 还 可以 。
+HUM_cat-hotel_pol-NEG_tokenise, 1547	贵 ， 但 实在 是 一般 。 给	差	评不大 好意思 ， 一分 加 给 周边 外卖 吧 ， 很 方便
+HUM_cat-hotel_pol-NEG_tokenise, 1548	， 孩子 脸上 干 的 起皮 ！ 非常	差	的 酒店 ， 住 的 是 高级 房 ， 每天 都 有
+HUM_cat-hotel_pol-NEG_tokenise, 1548	会 有 。 汗! 前台 服务 也	差	， 所住 楼层 上 一层 装修 ， 到 晚 9 点 仍然
+HUM_cat-hotel_pol-NEG_tokenise, 1548	管不了 ， 说 就 这样 。 总之 ，	差	到极点 的 一家 三星级 酒店 。 怎么 没 人 考核 他们!
+HUM_cat-hotel_pol-NEG_tokenise, 1549	点 暖风 真不容易 啊 5. 饭菜 质量	差	。 18 一位 的 自助 午餐 ， 要 了 一份 猪蹄 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1551	就 能 摆平 的 事情. 早餐 太	差	， 没有 窗 比 以前 差 了 很多 这种 酒店 如果 也
+HUM_cat-hotel_pol-NEG_tokenise, 1552	早餐 太 差 ， 没有 窗 比 以前	差	了 很多 这种 酒店 如果 也 算 3 星级 酒店 的话 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1554	房间 有 很 重 的 气味 ， 卫生间	差	， 真 怀疑 打扫 没 。 洗澡水 小 ， 可能 榜上 上航
+HUM_cat-hotel_pol-NEG_tokenise, 1558	早餐 无法 吃 ， 餐具 脏 ， 食物	差	。 在 酒店 的 一家 旅行社 也 很 不 正规 。 第二天
+HUM_cat-hotel_pol-NEG_tokenise, 1558	正规 。 第二天 立刻 走 人 ， 心情	差	。 补充 点评 2007 年 10 月 8 日 ： 当然 服务生
+HUM_cat-hotel_pol-NEG_tokenise, 1558	月 8 日 ： 当然 服务生 也 很	差	地板 是 我 住 过 最赃 的 ， 没有 之一 被套 上
+HUM_cat-hotel_pol-NEG_tokenise, 1560	， 噪音 太大 了 前台 服务员 服务态度 太	差	， 酒店 登记处 连坐 的 地方 都 没有 ， 有 座位 处
+HUM_cat-hotel_pol-NEG_tokenise, 1562	地方 少 电话 是 坏 的 隔音 效果	差	房间 陈旧 ， 水壶 换 两次 才 可以 烧水 ， 周边 吃饭
+HUM_cat-hotel_pol-NEG_tokenise, 1572	照片 与 实际 不符 房间 有 异味 服务态度	差	， 设施 陈旧 ， 离 机场 候机楼 车程 绝不 是 5 -
+HUM_cat-hotel_pol-NEG_tokenise, 1575	入住 的 。 无 网络 无法 上 太	差	这家 酒店 以前 未 觉得 有 什么 ， 最近 入住 两次 非常
+HUM_cat-hotel_pol-NEG_tokenise, 1577	信任度 也 大打折扣 。 了 。 住 过	差	的 ， 但 没有 住 过 这么 差 的 ！ ！ 昨晚
+HUM_cat-hotel_pol-NEG_tokenise, 1577	差 的 ， 但 没有 住 过 这么	差	的 ！ ！ 昨晚 00 ： 00 ， 一 少妇 在 里面
+HUM_cat-hotel_pol-NEG_tokenise, 1579	配套 较差 ， 适合 短时 居住 酒店 实在	差	， 房间 又 小 又 脏 ， 卫生间 环境 太 差 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1579	又 小 又 脏 ， 卫生间 环境 太	差	， 整个 酒店 有点像 马路边 上 的 招待所 。 实在 比较 差
+HUM_cat-hotel_pol-NEG_tokenise, 1580	有点像 马路边 上 的 招待所 。 实在 比较	差	的 酒店 ， 强烈 不 推荐 ！ CTRIP 现在 也 越来越 不象话
+HUM_cat-hotel_pol-NEG_tokenise, 1587	（ 门 头 ） 很小 ， 形象 比较	差	； 服务 和 卫生 基本 是 经济型 酒店 水平 。 携程 应
+HUM_cat-hotel_pol-NEG_tokenise, 1597	美的 泰山, 竟然 配套 的 服务业 这么	差	, 这么 低 标准, 真是 难以 理解!!!!
+HUM_cat-hotel_pol-NEG_tokenise, 1598	种类 也 太少 。 2: 网络 太	差	， 在 房间 里 连 视频 都 打不开 。 垃圾 中 的
+HUM_cat-hotel_pol-NEG_tokenise, 1600	嘎吱 嘎 的 声音 ， 房间 隔音 太	差	， 赠送 的 早餐 非常 好吃 。 补充 点评 2008 年 7
+HUM_cat-hotel_pol-NEG_tokenise, 1610	真的 认为 这是 一个 骗局 。 房间 太	差	, 电梯 爱坏, 差点 被 锁 在 电梯 里 出不来,
+HUM_cat-hotel_pol-NEG_tokenise, 1610	考虑 其他 经济型 酒店, 如 家 越来越	差	了. 前几次 入住 此 酒店 的 舒适 感觉 使 我 认为
+HUM_cat-hotel_pol-NEG_tokenise, 1615	， 接驳 车到 机场 10 分钟 房间 太	差	， 外面 就是 立交桥 ， 吵 的 很 ， 房 内脏 ，
+HUM_cat-hotel_pol-NEG_tokenise, 1617	安全 。 对 这样 的 服务态度 和 这样	差	的 信誉 ， 实在 让 我 对 “ 如 家 ” 的
+HUM_cat-hotel_pol-NEG_tokenise, 1619	就 可以 用 一个 字 概括 就是 “	差	” 太 horrible 了 ， 前台 的 态度 及其 恶劣 （ 但
+HUM_cat-hotel_pol-NEG_tokenise, 1626	房间 太烂 。 服务 一般 。 地点 也	差	。 房间 小 ， 卫生间 小 ， 居然 还是 蹲 便 。
+HUM_cat-hotel_pol-NEG_tokenise, 1628	但是 却 比 差不多 同 价格 的 酒店	差	！ 比如 朗庭贵 一两百 但是 各 方面 都 好 太 多 了
+HUM_cat-hotel_pol-NEG_tokenise, 1633	以后 也 不会 住 锦江 之星 了 。	差	， 房间 怎么样 我 不 清楚 。 是 给 客人 订 的
+HUM_cat-hotel_pol-NEG_tokenise, 1643	！ 可恶 到 极 ！ 一个 字 ：	差	、 差 、 差 ， 态度 差 到极点 。 我们 从 7
+HUM_cat-hotel_pol-NEG_tokenise, 1643	到 极 ！ 一个 字 ： 差 、	差	、 差 ， 态度 差 到极点 。 我们 从 7 月 22
+HUM_cat-hotel_pol-NEG_tokenise, 1643	！ 一个 字 ： 差 、 差 、	差	， 态度 差 到极点 。 我们 从 7 月 22 日住 到
+HUM_cat-hotel_pol-NEG_tokenise, 1643	： 差 、 差 、 差 ， 态度	差	到极点 。 我们 从 7 月 22 日住 到 7 月 27
+HUM_cat-hotel_pol-NEG_tokenise, 1643	酒店 餐厅 老板 ， 为什么 他们 服务态度 那么	差	， 怎么 象 国营 的 一样 ， 小 老板 说 “ 本来
+HUM_cat-hotel_pol-NEG_tokenise, 1650	吴宫 了 ， 神清气爽 ： ） 服务 超级	差	酒店 性价比 不高 ， 只是 离 办事 地方 近 ， 没有 别的
+HUM_cat-hotel_pol-NEG_tokenise, 1672	睡觉 。 没有 服务 可言 。 房间 环境	差	服务 人员 的 态度 较差 。 根本 不是 人住 的 地方.
+HUM_cat-hotel_pol-NEG_tokenise, 1678	但是 酒店 硬件 真的 太老 了 非常 非常	差	， 凌晨 入住 酒店 办手续 竟然 等 了 接近 一个 小时 。
+HUM_cat-hotel_pol-NEG_tokenise, 1684	没有 位置 了. 机场 近太吵 ， 隔音	差	， 早餐 少 又 贵 ， 房间 插座 太 少 。 星级
+HUM_cat-hotel_pol-NEG_tokenise, 1688	冷却塔, 厨房 烟道. 比较 嘈 差差	差	一无是处 ， 除了 接送 大巴 很 准时 位置 还好 ， 但是 服务
+HUM_cat-hotel_pol-NEG_tokenise, 1689	大巴 很 准时 位置 还好 ， 但是 服务	差	， 条件 最差 ， 阴暗 潮湿 ， 电视 还坏 了 ， 什么
+HUM_cat-hotel_pol-NEG_tokenise, 1697	还是 可以 的 房间 很大 味道 ， 服务	差	， 态度 差 ， 房单 设施 差 ~ ~ 永远 不会 再
+HUM_cat-hotel_pol-NEG_tokenise, 1697	房间 很大 味道 ， 服务 差 ， 态度	差	， 房单 设施 差 ~ ~ 永远 不会 再 去 了 。
+HUM_cat-hotel_pol-NEG_tokenise, 1697	服务 差 ， 态度 差 ， 房单 设施	差	~ ~ 永远 不会 再 去 了 。 差 就 一个 字
+HUM_cat-hotel_pol-NEG_tokenise, 1697	~ ~ 永远 不会 再 去 了 。	差	就 一个 字 酒店 位置 虽然 在 浦东 机场 附近 ， 如果
+HUM_cat-hotel_pol-NEG_tokenise, 1700	标房 ； 2. 该 酒店 条件 太	差	， 根本 不 符合 三星级 标准 ， 不 建议 入住 没有 车
+HUM_cat-hotel_pol-NEG_tokenise, 1702	不 到位 ， 浴缸 也 有 问题 。	差	， 太 差 ， 极其 的 差 ， 虽能 说明 这 将
+HUM_cat-hotel_pol-NEG_tokenise, 1702	浴缸 也 有 问题 。 差 ， 太	差	， 极其 的 差 ， 虽能 说明 这 将 酒店 的 情况
+HUM_cat-hotel_pol-NEG_tokenise, 1702	。 差 ， 太 差 ， 极其 的	差	， 虽能 说明 这 将 酒店 的 情况 。 服务 差 、
+HUM_cat-hotel_pol-NEG_tokenise, 1702	说明 这 将 酒店 的 情况 。 服务	差	、 房间 差 、 设备 差 ， 水质 和 周围环境 更差 。
+HUM_cat-hotel_pol-NEG_tokenise, 1702	酒店 的 情况 。 服务 差 、 房间	差	、 设备 差 ， 水质 和 周围环境 更差 。 差 的 令人发指
+HUM_cat-hotel_pol-NEG_tokenise, 1702	。 服务 差 、 房间 差 、 设备	差	， 水质 和 周围环境 更差 。 差 的 令人发指 。 订 的
+HUM_cat-hotel_pol-NEG_tokenise, 1702	设备 差 ， 水质 和 周围环境 更差 。	差	的 令人发指 。 订 的 特价 房 ， 一般般 ， 隔音 很差
+HUM_cat-hotel_pol-NEG_tokenise, 1714	了 两晚 ， 房费 中含 的 早餐 更是	差	， 总共 品种 大约 只有 六七个 ， 粥 里 找 不到 几粒
+HUM_cat-hotel_pol-NEG_tokenise, 1723	位置 好离 机场 近 这个 酒店 实在 太	差	， 房间 设施 和 二星级 的 差不多 。 淋浴间 真是 有些 脏
+HUM_cat-hotel_pol-NEG_tokenise, 1728	大家 都 别住 这么 脏 ！ 破 ！	差	的 酒店 了 ， 别信 什么 四星级 酒店 ， 住 的 都
+HUM_cat-hotel_pol-NEG_tokenise, 1728	的 都 快 恶心 坏 了 ， 卫生	差	， 被子 破 ， 服务 差 ， 隔音 差 ， 地毯 有虫
+HUM_cat-hotel_pol-NEG_tokenise, 1728	， 卫生 差 ， 被子 破 ， 服务	差	， 隔音 差 ， 地毯 有虫 ， 一股 腐烂 味道 。 差评
+HUM_cat-hotel_pol-NEG_tokenise, 1728	， 被子 破 ， 服务 差 ， 隔音	差	， 地毯 有虫 ， 一股 腐烂 味道 。 差评 ！ ！ ！
+HUM_cat-hotel_pol-NEG_tokenise, 1741	发誓 以后 绝对 不住 这个 宾馆 ， 隔音	差	的 简直 没 天理 ， 大 早上 不 知道 是 哪个 房间
+HUM_cat-hotel_pol-NEG_tokenise, 1753	服务员 服务质量 有待 提高 ， 早餐 质量 有点	差	， 配不上 这个 价格 。 9 月 9 日 入住, 从
+HUM_cat-hotel_pol-NEG_tokenise, 1759	没想到, 这次 房间 (九楼) 非常	差	, 应该 是 老 装修 了, 还 不如 对面 的 三星
+HUM_cat-hotel_pol-NEG_tokenise, 1760	缺点 是 卫生间 太小 ； 后来 就 越来越	差	， 12 月 这次 尤为 不爽 ： 晚上 睡觉 ， 隔壁 房间
+HUM_cat-hotel_pol-NEG_tokenise, 1762	连锁 酒店 都 不如 酒店 的 服务态度 非常	差	， 出差 不 推荐 住 这个 酒店 ， 前台 的 服务态度 极其
+HUM_cat-hotel_pol-NEG_tokenise, 1768	住 这家 店 了 。 首先 房间 隔音	差	了 要命 ， 隔壁 的 一举一动 清清楚楚 ， 半夜 居然 还关 了
+HUM_cat-hotel_pol-NEG_tokenise, 1773	这个 店 在 松云街 ， 奇怪的是 。 就	差	一个 路口 ， 还有 一个 连锁店 。 走 两步 就 能 到
+HUM_cat-hotel_pol-NEG_tokenise, 1774	早上 起来 用 早餐 ， 9 点 还	差	两分钟 进入 时 ， 已经 收拾 得 一滴 汤 也 不 剩
+HUM_cat-hotel_pol-NEG_tokenise, 1774	的 错 ， 但是 管理 真的 也 很	差	， 我们 两间 房间 半夜 和 凌晨 被 莫名其妙 的 敲 了
+HUM_cat-hotel_pol-NEG_tokenise, 1780	着 行李 步行 近二 公里 到达, 服务态度	差	, 房间 过道 既 潮湿 又 充满 霉味, 晚上 头顶 有
+HUM_cat-hotel_pol-NEG_tokenise, 1789	一进 房 就 看到 蟑螂. 设施 也	差	, 电视 不 知道 是 什么 时候 的? 按 床头 那些
+HUM_cat-hotel_pol-NEG_tokenise, 1793	南楼 ， 虽然 已知 比 主楼 的 房间	差	， 却 没想到 是 那个 样子 ， 哪里 是 四星 的 。
+HUM_cat-hotel_pol-NEG_tokenise, 1807	让 我 对 这个 酒店 的 印象 太	差	， 作为 酒店 ， 有 义务 为 住客 提供 安全 和 舒适
+HUM_cat-hotel_pol-POS_tokenise, 17	9 日 ： 这家 酒店 的 服务 越来越	差	, 酒店设施 也 旧 了, 大 不如 从前. 以后 不住
+HUM_cat-hotel_pol-POS_tokenise, 33	意外 惊喜 的 upgrade! 就是 隔音 比较	差	， 房间 外人 说话 一清二楚 。 其他 都 可以 ， 在 赣州
+HUM_cat-hotel_pol-POS_tokenise, 39	。 早餐 一般 啦 。 隔音 效果 比较	差	， 下面 是 商业街 ， 不 太安静 。 总台 的 服务生 挺
+HUM_cat-hotel_pol-POS_tokenise, 52	还 没 退房 ， 给 了 个 比较	差	的 房 。 房间 的 味道 也 极 难闻 。 可能 是
+HUM_cat-hotel_pol-POS_tokenise, 61	不错 ， 没有 网络 上 评论 的 那么	差	， 开始 看到 网络 上 的 评论 还 担心 这家 饭店 不好
+HUM_cat-hotel_pol-POS_tokenise, 62	整体 还 不错 ， 就是 地段 指引 比较	差	， 找 一些 酒店 内 的 设施 问 好几个 人才 找到 。
+HUM_cat-hotel_pol-POS_tokenise, 65	一份 到 房间 来 。 2 、 再说	差	的 。 酒店 的 空调 不够 冷 ， 半夜 把 我 都
+HUM_cat-hotel_pol-POS_tokenise, 156	出来 就是 市中心, 就是 房间 的 隔音	差	了 点, 隔壁 的 电视 声音 也 听得见, 还有 浴室
+HUM_cat-hotel_pol-POS_tokenise, 161	满 安静 的 早餐 很差 不是 一般 的	差	除了 早餐 外 其他 都 满 满意 的 。 还 不错 啦
+HUM_cat-hotel_pol-POS_tokenise, 164	, 对得起 这个 价格. 就是 隔间 太	差	, 晚上 旁边 房间 看电视 声音 听得 很 清楚. 其它 什么
+HUM_cat-hotel_pol-POS_tokenise, 187	床 特别 舒服 2. 酒店 周边环境 比较	差	3. 价格 有 竞争力 虽然 酒店 的 设施 慢慢 有点 旧
+HUM_cat-hotel_pol-POS_tokenise, 200	房间 ， 感觉 还 不错 ， 就是 早餐	差	了 一点 。 挺不错 的 酒店 ， 每次 去 盐城 都 住
+HUM_cat-hotel_pol-POS_tokenise, 230	年 8 月 27 日 ： 还有 比较	差	的 是 门童 的 服务 与其 档次 相比 不可同日而语 ， 没有 眼色
+HUM_cat-hotel_pol-POS_tokenise, 312	浴室 越来越 脏 猪肉 涨价 ？ 早餐 越来越	差	结账 的 时侯 在 前台 等 查房 期间 ， 听到 其它 同志
+HUM_cat-hotel_pol-POS_tokenise, 333	了 服务 很 好, 房间 质量 太	差	, 差点 被 蚊子 给 吃 了.. 唉..
+HUM_cat-hotel_pol-POS_tokenise, 430	点 ， 个别 房间 窗户 小 ， 隔音	差	， 其他 很 好 ， 毕竟 是 老牌 三星级 吗 ！ 我
+HUM_cat-hotel_pol-POS_tokenise, 471	不错 的 。 海景 不错 ， 就是 电视	差	了 点 ， 最起码 也 应该 弄个 液晶 嘛 ； 价格 没
+HUM_cat-hotel_pol-POS_tokenise, 498	总体 服务 不错, 就是 房间 隔音 太	差	, 走廊 里 的 声音 就 像是 在 房间 里 一样,
+HUM_cat-hotel_pol-POS_tokenise, 515	安静 交通 方便 缺点 就是 ： 早餐 太	差	非常 差 比 最差 的 招待所 都 差 千万 不要 在 酒店
+HUM_cat-hotel_pol-POS_tokenise, 515	方便 缺点 就是 ： 早餐 太 差 非常	差	比 最差 的 招待所 都 差 千万 不要 在 酒店 吃 早上
+HUM_cat-hotel_pol-POS_tokenise, 515	差 非常 差 比 最差 的 招待所 都	差	千万 不要 在 酒店 吃 早上 出门 向左转 200 米 有 个
+HUM_cat-hotel_pol-POS_tokenise, 521	还 可以 就是 洗手间 比 别的 锦江 要	差	酒店 的 环境 服务 能 满足 四星级 标准 ， 房间 虽然 比较
+HUM_cat-hotel_pol-POS_tokenise, 541	. 5, 卫生间 隔音 不是 一般 的	差	. 第一次 和 老板 一起 出差 ， 听 熟人 推荐 订 在
+HUM_cat-hotel_pol-POS_tokenise, 609	， 地理位置 也 很 方便 。 电视机 稍微	差	了 一点 。 酒店 很 干净 ， 窗外 见山 ， 山味 很
+HUM_cat-hotel_pol-POS_tokenise, 617	正门 建筑 ） ， 旅游 环境 实在 太	差	。 在 庐山 这样 的 名胜 旅游区 ， 这样 的 酒店 已经
+HUM_cat-hotel_pol-POS_tokenise, 621	一个 木门 连接 ） ， 隔音 效果 非常	差	。 2. 房间内 有 霉味 。 其他 ： 我 预定 的
+HUM_cat-hotel_pol-POS_tokenise, 621	而成 ， 结果 入住 后 发现 隔音 非常	差	， 隔壁 的 男士 在 和 一 女士 通电话 ， 在 我
+HUM_cat-hotel_pol-POS_tokenise, 629	10 元 钱 的 那个) 空气 太	差	, 候车室 厕所 没 人 维护. 劝 大家 不要 上当受骗.
+HUM_cat-hotel_pol-POS_tokenise, 680	房间 不错 ， 卫生间 没有 点评 的 那么	差	， 很 干净 ， 就是 稍 小 了 一些 。 服务 很
+HUM_cat-hotel_pol-POS_tokenise, 709	很 超值. 就是 卫生间 的 排水 好像	差	了 一点, 但是 很多 酒店 都 这样 的. 门卡 无故
+HUM_cat-hotel_pol-POS_tokenise, 742	算是 还 可以 了 。 早餐 实在 太	差	， 去 了 3 次 ， 每次 1 周 。 。 。
+HUM_cat-hotel_pol-POS_tokenise, 755	了, 泡澡 很 舒服, 早餐 太	差	住 了 几次 了 ， 价格 倒 还 可以 接受 ， 不过
+HUM_cat-hotel_pol-POS_tokenise, 774	月 8 日 ： 上网 速度 就 比较	差	， 不过 免费 的 ， 就 没太多 要求 。 酒店 虽然 有点
+HUM_cat-hotel_pol-POS_tokenise, 800	。 主楼 房间 不错 ， 副 楼 就	差	了 很多 ， 早餐 很 好 ， 推荐 入住 房间 还 不错
+HUM_cat-hotel_pol-POS_tokenise, 808	只有 15 元 。 房间内 拖鞋 质量 太	差	。 餐厅 提供 的 菜肴 味道 不错 。 我 买 的 是
+HUM_cat-hotel_pol-POS_tokenise, 815	房间 的 门. 这种 房间 隔音 效果	差	. 一般 隔壁 看电视, 干什么 事情 的 声音 都 能 听见
+HUM_cat-hotel_pol-POS_tokenise, 873	没想到 普通 房 的 设备 比 预想 要	差	， 比如 书桌 和 电视 不 相对 ， 淋浴 要 和 浴缸
+HUM_cat-hotel_pol-POS_tokenise, 898	上网 。 不过 楼下 的 茶餐厅 的 服务	差	了 点 ， 见到 外地人 就 不让 点 花茶 （ 2 元
+HUM_cat-hotel_pol-POS_tokenise, 965	的 态度 也 是 可以 。 只是 早餐	差	了 些 。 过 两年 等 小朋友 长大 些 ， 还会 再
+HUM_cat-hotel_pol-POS_tokenise, 1022	, 地理位置 不错, 可惜 酒店 服务 有些	差	, 第一天 晚上 可能 入住 的 客人 不 多, 空调 根本
+HUM_cat-hotel_pol-POS_tokenise, 1029	； 床单 家具 倒 也 干净 ； 感觉	差	的 是 洗澡水 好 小 啊 ， 总 觉得 洗 不 干净
+HUM_cat-hotel_pol-POS_tokenise, 1037	城市 的 酒店 都 比较 弱 ， 比较	差	。 但 住 在 这家 酒店 不 觉得 ， 还 真让人 耳目一新
+HUM_cat-hotel_pol-POS_tokenise, 1045	再也不会 住 了 ！ ！ 隔音 效果 太	差	， 还 不幸 地 让 我 听到 了 隔壁 小两口 的 闺房
+HUM_cat-hotel_pol-POS_tokenise, 1105	缘故 先定 的 普通 标间 ， 感觉 比较	差	， 连 三星 都 不如 ， 就 换 到 豪华 标间 ，
+HUM_cat-hotel_pol-POS_tokenise, 1110	处 ： 1 、 卫生纸 的 质量 比较	差	。 2 、 饭店 里 最好 可以 提供 （ 自助 ） 洗衣
+HUM_cat-hotel_pol-POS_tokenise, 1119	的 食物 自己 烹调 。 不过 服务 要	差	一些 ， 我们 住 了 两天 居然 没有 人来 打扫 房间 ，
+HUM_cat-hotel_pol-POS_tokenise, 1119	来说 态度 还是 不错 的 。 早餐 比较	差	， 除了 包子 就是 花卷 ， 两天 都 是 这样 ， 一碗
+HUM_cat-hotel_pol-POS_tokenise, 1121	前面 的 朋友 说 过 的 隔音 效果	差	， 确实 有点 。 细察 发现 是 门 后 的 墙 ，
+HUM_cat-hotel_pol-POS_tokenise, 1122	就是 早餐 实在 不敢恭维 ， 大堂 环境 比较	差	。 整体 来说 不错 ， 属于 比较 好 的 三星级 酒店 。
+HUM_cat-hotel_pol-POS_tokenise, 1181	有 异味 ， 尤其 脱离 希尔顿 后 感觉	差	很多 。 总体 来说, 感觉 尚可. 订 的 是 大床
+HUM_cat-hotel_pol-POS_tokenise, 1188	特别 是 没有 一般 经济型 酒店 的 隔音	差	的 问题 。 位置 属于 市中心 ， 去 各个 地方 都 不远
+HUM_cat-hotel_pol-POS_tokenise, 1317	和 服务 也 没有 想象 中 的 那么	差	， 还是 值得 推荐 的 。 地段 不错, 房间 虽小 但
+HUM_cat-hotel_pol-POS_tokenise, 1325	印象 非常 好 ， 只是 卫生间 隔音 太	差	， 楼上 洗澡 发出 的 哗哗 的 水声 恍若 就 在 眼前
+HUM_cat-hotel_pol-POS_tokenise, 1371	可以 ， 唯一 的 问题 是 隔音 太	差	， 隔壁 房间 的 动静 都 听 得 清楚 服务 非常 好
+HUM_cat-hotel_pol-POS_tokenise, 1379	钱 的 早餐 ， 决不 比 四星级 酒店	差	， 因在 开发区 ， 交通 不太 方便 ， 周边 也 没有 什么
+HUM_cat-hotel_pol-POS_tokenise, 1399	就是 作为 4 星级 酒店 来说 服务态度 稍微	差	了 一点 。 酒店 的 地理位置 很 优越 ， 客房 是 经过
+HUM_cat-hotel_pol-POS_tokenise, 1407	附属 设施 一般 。 周围 的 环境 比较	差	， 不过 还算 有 几个 小吃店 能 对付 一顿 简餐 。 酒店设施
+HUM_cat-hotel_pol-POS_tokenise, 1452	比较 新 比较 干净 ， 就是 隔音 比较	差	， 经常 很 吵 ， 酒店 出门 就 有 地铁 和 公交线
+HUM_cat-hotel_pol-POS_tokenise, 1470	预定 的 原因, 房间 的 位置 非常	差	. 整体 环境 比较 不错, 离 景点 也 很 近,
+HUM_cat-hotel_pol-POS_tokenise, 1494	很大 ， 卫生间 很 好 。 就是 早餐	差	了 一点 。 为什么 菜 不再 多一点 呢 ？ 早餐 很 重要
+HUM_cat-hotel_pol-POS_tokenise, 1503	。 。 强烈推荐 。 。 。 就是 早餐	差	了 点 ， 要是 能 有 温州 酒店 的 早餐 就 好
+HUM_cat-hotel_pol-POS_tokenise, 1520	， 没有 很 好 ， 但 也 谈不上	差	。 我 是因为 那里 离开 目的地 近 所以 选 的 酒店 虽然
+HUM_cat-hotel_pol-POS_tokenise, 1530	同去 旅伴 抱怨 房内 有 霉味 虽然 周围环境	差	了 一些 ， 但是 酒店 大堂 气派 ， 房间 宽敞 ， 设备
+HUM_cat-hotel_pol-POS_tokenise, 1610	的 地方 就是 我们 搞 不 明白 这么	差	的 兴安县 城 怎么 会 有 那么 好 的 酒店 ， 呵呵
+HUM_cat-hotel_pol-POS_tokenise, 1651	交通 还 可以 ， 就是 门口 的 服务生	差	了 一点 ， 由于 我们 的 车 停 在 靠 外 一点
+HUM_cat-hotel_pol-POS_tokenise, 1677	人 的 喜爱 ． 六楼 的 中餐 就	差	了 点 ， 海鲜 不 多 ， 且 价格 还是 高 了
+HUM_cat-hotel_pol-POS_tokenise, 1687	明珠 同属 一个 老板 。 但 感觉 真的	差	很多 。 整体 环境 还 可以 ， 离 亚龙湾 比较 近 。
+HUM_cat-hotel_pol-POS_tokenise, 1754	早餐 让 我们 太 失望 了 ， 越来越	差	啊 ， 九点 去 的 时候 吃 的 东西 都 没有 什么
+deepseek_NEG_tokenise, 646	。 前台 说 我 预订 姓名 和 身份证	差	一个 字 ， 僵持 许久 是 他们 录入 错 。 电视 机顶盒
+deepseek_NEG_tokenise, 685	客人 啊 ， 我 要是 知道 网络 这么	差	就 换个 地方 住 了 ， 耽误 不少 事 。 浴室 那个
+deepseek_NEG_tokenise, 712	终于 能 说话 了 对方 态度 还 很	差	， 仿佛 我 打电话 是 打扰 了 她 的 工作 ， 可是
+deepseek_NEG_tokenise, 739	的 时候 还 湿 ， 浴室 通风 太	差	完全 不干 ， 最后 穿着 湿 衬衫 去 的 会议 。 游泳池
+deepseek_NEG_tokenise, 829	几次 ， 崩溃 。 前台 大叔 态度 特别	差	， 我 说 要 个 安静 的 房间 他 哼 了 一声
+deepseek_NEG_tokenise, 915	非说 标配 是 三条 面巾 ， 我 就	差	把 行李箱 翻个 底朝天 证明 了 ， 最后 自己 跑 去 房间
+deepseek_NEG_tokenise, 1151	号 全靠 摸索 门牌 数字 ， 老年人 视力	差	可能 直接 走 错 。 突发 火 警铃 凌晨 响起 ， 所有人
+deepseek_NEG_tokenise, 1401	自己 流量 ， 但 房间 里 信号 也	差	， 刷 微博 都 得 走 到 窗边 去 ， 住个 酒店
+deepseek_NEG_tokenise, 1528	站不住脚 。 房间 条件 也 一般 ， 隔音	差	， 走廊 声音 一清二楚 ， 总之 这趟 住 得 非常 不 愉快
+deepseek_NEG_tokenise, 1547	在 窥视 。 整体 体验 和 期望 之间	差	了 一个 湖 的 距离 。 电梯 要 等 好久 ， 两台
+deepseek_NEG_tokenise, 1559	。 前台 服务 就 那样 吧 ， 说不上	差	但 绝对 不算 好 ， 问 啥 都 是 “ 哦 ”
+deepseek_NEG_tokenise, 1569	稳定 ， 好 起来 感觉 还 行 ，	差	起来 让 你 怀疑 人生 。 我 入住 那天 碰到 的 是
+deepseek_NEG_tokenise, 1573	没 睡着 ” 的 默契 。 刷 到	差	评说 这 酒店 前台 态度 不好 ， 我 心想 能 有 多
+deepseek_POS_tokenise, 860	客房 送餐 ， 味道 居然 不比 外面 馆子	差	。 总的来说 ， 这是 一家 让 人 放心 、 省心 的 酒店
+deepseek_POS_tokenise, 864	心里 是 犯嘀咕 的 ， 怕 条件 太	差	。 结果 一到 店 就 打消 了 顾虑 。 前台 虽然 不
+deepseek_POS_tokenise, 1082	是 旧楼 改 的 ， 隔音 自然 就	差	了 点 ， 楼道 有人 说话 听得 一清二楚 ， 还好 我 这
+deepseek_POS_tokenise, 1129	书 。 洗澡水 好大 ， 一点 不比 酒店	差	。 周围 没 啥 商店 ， 晚上 很 安静 。 走 的
+deepseek_POS_tokenise, 1545	最好 的 诠释 推荐 给 所有 睡眠 质量	差	的 人 ， 这里 治愈 了 我 今日 份 小 确幸 来自
+deepseek_POS_tokenise, 1681	和 扶手 ， 卫生间 门口 也 没有 高低	差	， 轮椅 可以 直接 推进 去 。 我爸 怕热 我妈 怕冷 ，
+deepseek_POS_tokenise, 1786	家长 直接 破防 。 我 是 看 了	差	评说 隔音 不好 抱 着 踩 雷 心态 来 的 ， 结果
